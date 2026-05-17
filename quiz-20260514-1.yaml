@@ -1,0 +1,427 @@
+- id: 1
+  part: 5
+  type: "Vocab"
+  question: "The director _______ selected the candidates for the executive training program based on their leadership potential."
+  options:
+    - "careful"
+    - "carefully"
+    - "caring"
+    - "care"
+  answer: 1
+  explanation: "【副詞修飾】此處需要副詞 carefully 來修飾動詞 selected。"
+
+- id: 2
+  part: 5
+  type: "Grammar"
+  question: "It is essential that the technician _______ the equipment before the manufacturing process begins."
+  options:
+    - "checks"
+    - "checked"
+    - "check"
+    - "checking"
+  answer: 2
+  explanation: "【虛擬語氣】It is essential that 後接子句，動詞需用原形動詞（省略 should）。"
+
+- id: 3
+  part: 5
+  type: "Vocab"
+  question: "The legal team is working on a _______ that will address all potential liabilities before the contract is signed."
+  options:
+    - "clause"
+    - "cause"
+    - "pause"
+    - "close"
+  answer: 0
+  explanation: "【商務詞彙】Clause 指合約中的「條款」。"
+
+- id: 4
+  part: 5
+  type: "Prep"
+  question: "The financial report must be completed _______ the end of the fiscal quarter."
+  options:
+    - "until"
+    - "since"
+    - "by"
+    - "during"
+  answer: 2
+  explanation: "【時間介係詞】By 表示「在...之前（截止時間）」。"
+
+- id: 5
+  part: 5
+  type: "Grammar"
+  question: "Neither the supervisor _______ the employees expected the maintenance work to take more than three hours."
+  options:
+    - "or"
+    - "and"
+    - "but"
+    - "nor"
+  answer: 3
+  explanation: "【相關連接詞】Neither ... nor 為固定搭配，意為「既不...也不...」。"
+
+- id: 6
+  part: 5
+  type: "Vocab"
+  question: "The company’s annual profits have grown _______ since the implementation of the new cost-cutting strategy."
+  options:
+    - "signify"
+    - "significant"
+    - "significance"
+    - "significantly"
+  answer: 3
+  explanation: "【副詞用法】修飾動詞 grown，選副詞 significantly (顯著地)。"
+
+- id: 7
+  part: 5
+  type: "Grammar"
+  question: "Had we known about the scheduling conflict, we _______ the meeting to a different day."
+  options:
+    - "will move"
+    - "would have moved"
+    - "had moved"
+    - "move"
+  answer: 1
+  explanation: "【假設法倒裝】與過去事實相反的假設，從句 Had we known，主句用 would have + V-ed。"
+
+- id: 8
+  part: 5
+  type: "Vocab"
+  question: "The human resources department is looking for an _______ candidate who has at least five years of experience in project management."
+  options:
+    - "ideal"
+    - "idle"
+    - "idol"
+    - "idiom"
+  answer: 0
+  explanation: "【詞彙辨析】Ideal 意為「理想的」。"
+
+- id: 9
+  part: 5
+  type: "Grammar"
+  question: "Rarely _______ such an impressive performance from a newcomer in the sales department."
+  options:
+    - "we have seen"
+    - "have we seen"
+    - "seen we have"
+    - "did we saw"
+  answer: 1
+  explanation: "【倒裝句】否定副詞 Rarely 位於句首，主句需採倒裝結構。"
+
+- id: 10
+  part: 5
+  type: "Prep"
+  question: "The new marketing strategy was designed _______ response to the changing consumer preferences."
+  options:
+    - "on"
+    - "at"
+    - "in"
+    - "for"
+  answer: 2
+  explanation: "【固定搭配】In response to 意為「作為對...的回應」。"
+
+- id: 11
+  part: 6
+  type: "Announcement"
+  passage: |
+    To: All Staff
+    From: Facilities Management
+    Date: June 12
+    Subject: Office Relocation
+
+    We are writing to confirm that the relocation to our new downtown office will take place on the weekend of July 20th. (11) _______, the current building will be closed starting from Friday afternoon at 2 PM. We understand that this may cause some inconvenience, but we are confident that the new facility will provide a much better working environment.
+
+    To ensure a smooth transition, we have (12) _______ a professional moving company to handle the transport of all office furniture and equipment. (13) _______. Please label your personal boxes clearly with your name and new cubicle number. We look forward to (14) _______ you in our new space.
+  question: "Q11: Choose the best connector."
+  options:
+    - "On the contrary"
+    - "Consequently"
+    - "In summary"
+    - "Nevertheless"
+  answer: 1
+  explanation: "【邏輯銜接】前文說搬家，後文說要關閉舊大樓，為因果關係，選 Consequently (因此)。"
+
+- id: 12
+  part: 6
+  type: "Announcement"
+  passage: |
+    To: All Staff
+    From: Facilities Management
+    Date: June 12
+    Subject: Office Relocation
+
+    We are writing to confirm that the relocation to our new downtown office will take place on the weekend of July 20th. (11) _______, the current building will be closed starting from Friday afternoon at 2 PM. We understand that this may cause some inconvenience, but we are confident that the new facility will provide a much better working environment.
+
+    To ensure a smooth transition, we have (12) _______ a professional moving company to handle the transport of all office furniture and equipment. (13) _______. Please label your personal boxes clearly with your name and new cubicle number. We look forward to (14) _______ you in our new space.
+  question: "Q12: Choose the best verb."
+  options:
+    - "contracted"
+    - "contacted"
+    - "conducted"
+    - "connected"
+  answer: 0
+  explanation: "【商務詞彙】Contract 這裡作動詞，意為「簽約聘僱」。"
+
+- id: 13
+  part: 6
+  type: "Announcement"
+  passage: |
+    To: All Staff
+    From: Facilities Management
+    Date: June 12
+    Subject: Office Relocation
+
+    We are writing to confirm that the relocation to our new downtown office will take place on the weekend of July 20th. (11) _______, the current building will be closed starting from Friday afternoon at 2 PM. We understand that this may cause some inconvenience, but we are confident that the new facility will provide a much better working environment.
+
+    To ensure a smooth transition, we have (12) _______ a professional moving company to handle the transport of all office furniture and equipment. (13) _______. Please label your personal boxes clearly with your name and new cubicle number. We look forward to (14) _______ you in our new space.
+  question: "Q13: Choose the best sentence."
+  options:
+    - "Lunch will be provided at the new cafeteria."
+    - "The move will be completed by Sunday evening."
+    - "Parking in the downtown area is very expensive."
+    - "The company recently won a major award."
+  answer: 1
+  explanation: "【上下文邏輯】此段在講搬家過程，提到完成時間最為合理。"
+
+- id: 14
+  part: 6
+  type: "Announcement"
+  passage: |
+    To: All Staff
+    From: Facilities Management
+    Date: June 12
+    Subject: Office Relocation
+
+    We are writing to confirm that the relocation to our new downtown office will take place on the weekend of July 20th. (11) _______, the current building will be closed starting from Friday afternoon at 2 PM. We understand that this may cause some inconvenience, but we are confident that the new facility will provide a much better working environment.
+
+    To ensure a smooth transition, we have (12) _______ a professional moving company to handle the transport of all office furniture and equipment. (13) _______. Please label your personal boxes clearly with your name and new cubicle number. We look forward to (14) _______ you in our new space.
+  question: "Q14: Choose the best verb form."
+  options:
+    - "welcome"
+    - "welcoming"
+    - "welcomed"
+    - "welcomes"
+  answer: 1
+  explanation: "【動詞搭配】Look forward to 後面必須接 N 或 V-ing。"
+
+- id: 15
+  part: 7
+  type: "Article"
+  passage: |
+    Green Energy Summit 2026
+    This year's Green Energy Summit, held in Oslo, brought together world leaders and industry experts to discuss the future of renewable energy. The keynote speaker, Dr. Elena Thorne, emphasized that the transition to solar and wind power is no longer just an environmental necessity but an economic one.
+
+    According to the summit report, investment in clean energy technologies has exceeded $2 trillion globally this year. However, Thorne warned that "without significant improvements to power storage infrastructure, the full potential of these energy sources will remain untapped."
+  question: "Q15: What was the main theme of the summit?"
+  options:
+    - "New types of fossil fuels"
+    - "The future of renewable energy"
+    - "The history of Oslo"
+    - "How to reduce travel costs"
+  answer: 1
+  explanation: "【文章定位】首句提到 discuss the future of renewable energy。"
+
+- id: 16
+  part: 7
+  type: "Article"
+  passage: |
+    Green Energy Summit 2026
+    This year's Green Energy Summit, held in Oslo, brought together world leaders and industry experts to discuss the future of renewable energy. The keynote speaker, Dr. Elena Thorne, emphasized that the transition to solar and wind power is no longer just an environmental necessity but an economic one.
+
+    According to the summit report, investment in clean energy technologies has exceeded $2 trillion globally this year. However, Thorne warned that "without significant improvements to power storage infrastructure, the full potential of these energy sources will remain untapped."
+  question: "Q16: How much was invested in clean energy this year?"
+  options:
+    - "Under $1 trillion"
+    - "Over $2 trillion"
+    - "Exactly $500 billion"
+    - "Not mentioned in the report"
+  answer: 1
+  explanation: "【細節定位】文中提到 exceeded $2 trillion。"
+
+- id: 17
+  part: 7
+  type: "Article"
+  passage: |
+    Green Energy Summit 2026
+    This year's Green Energy Summit, held in Oslo, brought together world leaders and industry experts to discuss the future of renewable energy. The keynote speaker, Dr. Elena Thorne, emphasized that the transition to solar and wind power is no longer just an environmental necessity but an economic one.
+
+    According to the summit report, investment in clean energy technologies has exceeded $2 trillion globally this year. However, Thorne warned that "without significant improvements to power storage infrastructure, the full potential of these energy sources will remain untapped."
+  question: "Q17: According to Dr. Thorne, what is needed to reach the full potential of green energy?"
+  options:
+    - "Lowering electricity prices"
+    - "Building more fossil fuel plants"
+    - "Better power storage infrastructure"
+    - "Reducing the number of attendees"
+  answer: 2
+  explanation: "【關鍵詞匹配】文中提到 improvements to power storage infrastructure。"
+
+- id: 18
+  part: 7
+  type: "Job Ad"
+  passage: |
+    Position Available: Operations Manager
+    Skyline Logistics is seeking a highly motivated Operations Manager to join our growing team in Sydney.
+
+    Requirements:
+    - Minimum of 7 years in a logistical role.
+    - Bachelor’s degree in Business or Supply Chain Management.
+    - Proficiency in ERP software.
+  question: "Q18: What is a requirement for this position?"
+  options:
+    - "A Master's degree"
+    - "Proficiency in ERP software"
+    - "Willingness to travel to London"
+    - "10 years of warehouse experience"
+  answer: 1
+  explanation: "【細節定位】條件中列出 Proficiency in ERP software。"
+
+- id: 19
+  part: 7
+  type: "Job Ad"
+  passage: |
+    Position Available: Operations Manager
+    Skyline Logistics is seeking a highly motivated Operations Manager to join our growing team in Sydney.
+
+    Requirements:
+    - Minimum of 7 years in a logistical role.
+    - Bachelor’s degree in Business or Supply Chain Management.
+    - Proficiency in ERP software.
+  question: "Q19: Which city is the job located in?"
+  options:
+    - "Sydney"
+    - "London"
+    - "New York"
+    - "Oslo"
+  answer: 0
+  explanation: "【資訊提取】文中提到 join our growing team in Sydney。"
+
+- id: 20
+  part: 7
+  type: "Double Passage"
+  passage: |
+    [Service Invoice]
+    Invoice #10293
+    Invoice Date: May 15
+    Amount Due: $450.00
+    Payment Terms: Net 15 days
+    Note: A late fee of 5% will be applied.
+
+    [Email from Customer]
+    Dear Billing Team, I was out of the country for a design summit and missed the payment deadline. I have just authorized the payment of $450.00. Since this is the first time I have been late in five years, would you consider waiving the late fee?
+  question: "Q20: What is the original amount due on the invoice?"
+  options:
+    - "$450.00"
+    - "$472.50"
+    - "$5.00"
+    - "$102.93"
+  answer: 0
+  explanation: "【發票定位】發票顯示 Amount Due: $450.00。"
+
+- id: 21
+  part: 7
+  type: "Double Passage"
+  passage: |
+    [Service Invoice]
+    Invoice #10293
+    Invoice Date: May 15
+    Amount Due: $450.00
+    Payment Terms: Net 15 days
+    Note: A late fee of 5% will be applied.
+
+    [Email from Customer]
+    Dear Billing Team, I was out of the country for a design summit and missed the payment deadline. I have just authorized the payment of $450.00. Since this is the first time I have been late in five years, would you consider waiving the late fee?
+  question: "Q21: On what date was the payment originally due?"
+  options:
+    - "May 15"
+    - "May 30"
+    - "June 5"
+    - "June 12"
+  answer: 1
+  explanation: "【日期計算】May 15 加上 15 天為 May 30。"
+
+- id: 22
+  part: 7
+  type: "Double Passage"
+  passage: |
+    [Service Invoice]
+    Invoice #10293
+    Invoice Date: May 15
+    Amount Due: $450.00
+    Payment Terms: Net 15 days
+    Note: A late fee of 5% will be applied.
+
+    [Email from Customer]
+    Dear Billing Team, I was out of the country for a design summit and missed the payment deadline. I have just authorized the payment of $450.00. Since this is the first time I have been late in five years, would you consider waiving the late fee?
+  question: "Q22: Why did the customer miss the deadline?"
+  options:
+    - "He lost the invoice."
+    - "He disagreed with the amount."
+    - "He was traveling abroad."
+    - "His company went bankrupt."
+  answer: 2
+  explanation: "【同義替換】Out of the country 對應 traveling abroad。"
+
+- id: 23
+  part: 7
+  type: "Double Passage"
+  passage: |
+    [Service Invoice]
+    Invoice #10293
+    Invoice Date: May 15
+    Amount Due: $450.00
+    Payment Terms: Net 15 days
+    Note: A late fee of 5% will be applied.
+
+    [Email from Customer]
+    Dear Billing Team, I was out of the country for a design summit and missed the payment deadline. I have just authorized the payment of $450.00. Since this is the first time I have been late in five years, would you consider waiving the late fee?
+  question: "Q23: How much would the late fee be based on the invoice terms?"
+  options:
+    - "$5.00"
+    - "$22.50"
+    - "$15.00"
+    - "$45.00"
+  answer: 1
+  explanation: "【數值計算】$450 的 5% 為 $22.50。"
+
+- id: 24
+  part: 7
+  type: "Double Passage"
+  passage: |
+    [Service Invoice]
+    Invoice #10293
+    Invoice Date: May 15
+    Amount Due: $450.00
+    Payment Terms: Net 15 days
+    Note: A late fee of 5% will be applied.
+
+    [Email from Customer]
+    Dear Billing Team, I was out of the country for a design summit and missed the payment deadline. I have just authorized the payment of $450.00. Since this is the first time I have been late in five years, would you consider waiving the late fee?
+  question: "Q24: What does the customer ask the company to do?"
+  options:
+    - "Cancel the storage service"
+    - "Reduce the monthly amount"
+    - "Remove the extra charge"
+    - "Update his billing address"
+  answer: 2
+  explanation: "【詞彙理解】Waive the fee 指減免或移除該費用。"
+
+- id: 25
+  part: 7
+  type: "Double Passage"
+  passage: |
+    [Service Invoice]
+    Invoice #10293
+    Invoice Date: May 15
+    Amount Due: $450.00
+    Payment Terms: Net 15 days
+    Note: A late fee of 5% will be applied.
+
+    [Email from Customer]
+    Dear Billing Team, I was out of the country for a design summit and missed the payment deadline. I have just authorized the payment of $450.00. Since this is the first time I have been late in five years, would you consider waiving the late fee?
+  question: "Q25: For how long has the individual been a customer?"
+  options:
+    - "15 days"
+    - "Since May 15"
+    - "5 years"
+    - "Recently"
+  answer: 2
+  explanation: "【細節定位】文中提到 in five years。"
+
