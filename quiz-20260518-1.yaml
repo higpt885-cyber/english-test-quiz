@@ -1,0 +1,402 @@
+- id: 1
+  part: 5
+  type: "Vocab"
+  question: "The legal department issued a _______ statement regarding the unauthorized use of the company's trademarked logos."
+  options:
+    - "superficial"
+    - "categorical"
+    - "vague"
+    - "precarious"
+  answer: 1
+  explanation: "【商務詞彙】Categorical 意為「絕對的、明確的、不留餘地的」。語境指法律部門發出明確且嚴正的聲明。"
+
+- id: 2
+  part: 5
+  type: "Grammar"
+  question: "The director suggested that the annual budget _______ to account for the fluctuating exchange rates in the international market."
+  options:
+    - "adjusts"
+    - "be adjusted"
+    - "is adjusting"
+    - "had adjusted"
+  answer: 1
+  explanation: "【虛擬語氣】在 suggest (建議) 之後的 that 子句需使用原形動詞（省略 should），且預算應是被調整，故選 be adjusted。"
+
+- id: 3
+  part: 5
+  type: "Vocab"
+  question: "The new residential complex was designed to _______ the natural landscape rather than disrupt it."
+  options:
+    - "compliment"
+    - "complement"
+    - "compromise"
+    - "complicate"
+  answer: 1
+  explanation: "【易混淆字】Complement 是「相輔相成、補充」。Compliment 則是「讚美」。此處指建築與景觀相得益彰。"
+
+- id: 4
+  part: 5
+  type: "Grammar"
+  question: "_______ the CEO had anticipated the market crash, she would have liquidated the company's riskier assets much earlier."
+  options:
+    - "Should"
+    - "Were"
+    - "Had"
+    - "If"
+  answer: 2
+  explanation: "【假設法倒裝】If she had anticipated... 的倒裝形式為 Had she anticipated...。主句用 would have liquidated 表示與過去事實相反。"
+
+- id: 5
+  part: 5
+  type: "Vocab"
+  question: "The research team’s findings were _______ enough to secure a multi-million dollar grant from the government."
+  options:
+    - "compelling"
+    - "compulsory"
+    - "compensatory"
+    - "complacent"
+  answer: 0
+  explanation: "【商務詞彙】Compelling 意為「令人信服的、有說服力的」。語境指研究結果很有力，因此獲得撥款。"
+
+- id: 6
+  part: 5
+  type: "Grammar"
+  question: "The company plans to expand its operations into Eastern Europe, _______ that the current political situation remains stable."
+  options:
+    - "provided"
+    - "unless"
+    - "even though"
+    - "nevertheless"
+  answer: 0
+  explanation: "【條件連接詞】Provided (that) 意為「假如、在...條件下」。語境指在政治穩定前提下才會擴張。"
+
+- id: 7
+  part: 5
+  type: "Vocab"
+  question: "The merger was initially met with skepticism, but it has since proved to be a _______ move for both organizations."
+  options:
+    - "scanty"
+    - "stagnant"
+    - "shrewd"
+    - "spontaneous"
+  answer: 2
+  explanation: "【職場詞彙】Shrewd 意為「精明的、明智的」。語境指雖然最初有疑慮，但事後證明是精明的舉措。"
+
+- id: 8
+  part: 5
+  type: "Grammar"
+  question: "Rarely _______ any single employee shown such a high level of dedication to the company's core values."
+  options:
+    - "is"
+    - "has"
+    - "did"
+    - "had"
+  answer: 1
+  explanation: "【倒裝句】否定副詞 Rarely 放在句首引導倒裝。主詞是 single employee，且語意指到目前為止的經驗，用現在完成式 has。"
+
+- id: 9
+  part: 5
+  type: "Vocab"
+  question: "The technical manual is so _______ written that even non-experts can understand the complex assembly process."
+  options:
+    - "lucidly"
+    - "ludicrously"
+    - "languidly"
+    - "loftily"
+  answer: 0
+  explanation: "【修飾副詞】Lucidly 意為「清晰地、明瞭地」。語境指手冊寫得極其清晰。"
+
+- id: 10
+  part: 5
+  type: "Prep"
+  question: "The board members expressed their unwavering support for the new CEO _______ the recent drop in stock prices."
+  options:
+    - "notwithstanding"
+    - "in light of"
+    - "rather than"
+    - "as opposed to"
+  answer: 0
+  explanation: "【高階介係詞】Notwithstanding 意為「儘管」。語意指儘管股價下跌，董事會仍支持 CEO。"
+
+- id: 11
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b>
+    <b>From: Operations Directorate</b>
+    <b>Subject: Digital Infrastructure Transformation</b>
+
+    Over the next quarter, our firm (11) _______ a comprehensive overhaul of its internal data management systems. This transition is essential to remain competitive in an increasingly automated industry. (12) _______. During the transition period, we expect minimal downtime, although some legacy databases may be intermittently (13) _______. We appreciate your patience as we (14) _______ work to modernize our workspace.
+  question: "Q11: Choose the best connector."
+  options:
+    - "On the contrary"
+    - "Consequently"
+    - "In summary"
+    - "Nevertheless"
+  answer: 1
+  explanation: "【邏輯銜接】前文說搬家，後文說要關閉舊大樓，為因果關係，選 Consequently (因此)。"
+
+- id: 12
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b>
+    <b>From: Operations Directorate</b>
+    <b>Subject: Digital Infrastructure Transformation</b>
+
+    Over the next quarter, our firm (11) _______ a comprehensive overhaul of its internal data management systems. This transition is essential to remain competitive in an increasingly automated industry. (12) _______. During the transition period, we expect minimal downtime, although some legacy databases may be intermittently (13) _______. We appreciate your patience as we (14) _______ work to modernize our workspace.
+  question: "Q12: Choose the best sentence to fill in the blank."
+  options:
+    - "The IT department will hold individual training sessions for each team."
+    - "The office kitchen will be renovated during the same period."
+    - "New coffee machines have already been installed in the breakroom."
+    - "Employee health insurance premiums will remain unchanged this year."
+  answer: 0
+  explanation: "【上下文邏輯】此段在討論數位系統轉型，提到為團隊進行訓練最為合理且連貫。"
+
+- id: 13
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b>
+    <b>From: Operations Directorate</b>
+    <b>Subject: Digital Infrastructure Transformation</b>
+
+    Over the next quarter, our firm (11) _______ a comprehensive overhaul of its internal data management systems. This transition is essential to remain competitive in an increasingly automated industry. (12) _______. During the transition period, we expect minimal downtime, although some legacy databases may be intermittently (13) _______. We appreciate your patience as we (14) _______ work to modernize our workspace.
+  question: "Q13: Choose the best adjective."
+  options:
+    - "inaccessible"
+    - "inaccurate"
+    - "inanimate"
+    - "inadequate"
+  answer: 0
+  explanation: "【精準詞彙】Inaccessible 意為「無法進入的、無法讀取的」。語境指系統維護時資料庫可能暫時無法使用。"
+
+- id: 14
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b>
+    <b>From: Operations Directorate</b>
+    <b>Subject: Digital Infrastructure Transformation</b>
+
+    Over the next quarter, our firm (11) _______ a comprehensive overhaul of its internal data management systems. This transition is essential to remain competitive in an increasingly automated industry. (12) _______. During the transition period, we expect minimal downtime, although some legacy databases may be intermittently (13) _______. We appreciate your patience as we (14) _______ work to modernize our workspace.
+  question: "Q14: Choose the best adverb."
+  options:
+    - "negligently"
+    - "strenuously"
+    - "diligent"
+    - "assiduously"
+  answer: 3
+  explanation: "【商務副詞】Assiduously 意為「勤奮地、孜孜不倦地」。常用於形容企業努力改善流程。"
+
+- id: 15
+  part: 7
+  type: "Article"
+  passage: |
+    <b>Global Logistics Crisis: Ports at Capacity</b>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays. 
+
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q15: What is mentioned as a cause of the shipping hub backlog?"
+  options:
+    - "A decrease in oil prices"
+    - "An increase in electronics imports"
+    - "A major earthquake in Europe"
+    - "A reduction in port taxes"
+  answer: 1
+  explanation: "【細節定位】第一段提到 'surge in consumer electronics imports'。"
+
+- id: 16
+  part: 7
+  type: "Article"
+  passage: |
+    <b>Global Logistics Crisis: Ports at Capacity</b>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays. 
+
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q16: By how much has the average berthing delay at the Port of Antwerp-Bruges increased?"
+  options:
+    - "24 hours"
+    - "48 hours"
+    - "72 hours"
+    - "One month"
+  answer: 1
+  explanation: "【資訊處理】文中說延遲從 24 小時增加到 72 小時，增加量 (Increase) 為 48 小時。"
+
+- id: 17
+  part: 7
+  type: "Article"
+  passage: |
+    <b>Global Logistics Crisis: Ports at Capacity</b>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays. 
+
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q17: According to Marcus Vane, what is required for distribution centers to stop operating under duress?"
+  options:
+    - "Lowering the price of consumer stock"
+    - "Hiring more logistical consultants"
+    - "Improving efficiency at source ports"
+    - "Building more shelves in retail stores"
+  answer: 2
+  explanation: "【最後細節】文章最後提到 'Until throughput efficiency improves at the source ports...'。"
+
+- id: 18
+  part: 7
+  type: "Article"
+  passage: |
+    <b>Global Logistics Crisis: Ports at Capacity</b>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays. 
+
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q18: When would goods meant for June likely become available to consumers?"
+  options:
+    - "In May"
+    - "In July"
+    - "In late August"
+    - "In early September"
+  answer: 2
+  explanation: "【時間定位】文中提到 'may not hit shelves until late August'。"
+
+- id: 19
+  part: 7
+  type: "Article"
+  passage: |
+    <b>Global Logistics Crisis: Ports at Capacity</b>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays. 
+
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q19: Which word is closest in meaning to 'catalysts' in the first paragraph?"
+  options:
+    - "Obstacles"
+    - "Triggers"
+    - "Results"
+    - "Solutions"
+  answer: 1
+  explanation: "【詞義推斷】Catalyst 指「催化劑、觸發因素」，在此對應 Triggers。"
+
+- id: 20
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice to Shareholders]</b>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.
+
+    <b>[V-Tech Innovations: Fiscal Summary]</b>
+    - Total Revenue: $520 Million (Up 12% YoY)
+    - Net Profit Margin: 8.5%
+    - Research & Development Spending: $45 Million
+    - CEO Message: "Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow."
+  question: "Q20: What will shareholders vote on at the meeting?"
+  options:
+    - "The relocation of the Singapore plant"
+    - "A 5% increase in dividends"
+    - "A reduction in R&D spending"
+    - "The appointment of a new CEO"
+  answer: 1
+  explanation: "【第一篇定位】Notice 提到 'voting on the proposed dividend increase of 5%'。"
+
+- id: 21
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice to Shareholders]</b>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.
+
+    <b>[V-Tech Innovations: Fiscal Summary]</b>
+    - Total Revenue: $520 Million (Up 12% YoY)
+    - Net Profit Margin: 8.5%
+    - Research & Development Spending: $45 Million
+    - CEO Message: "Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow."
+  question: "Q21: What is the current status of the Singapore plant expansion?"
+  options:
+    - "It has been completed ahead of schedule."
+    - "It is being moved to the Sterling Ballroom."
+    - "It has been postponed until next year."
+    - "It was cancelled due to low revenue."
+  answer: 2
+  explanation: "【跨篇章推論】CEO Message 提到 'defer the expansion... until the next fiscal cycle'，Defer 等於 Postpone。"
+
+- id: 22
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice to Shareholders]</b>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.
+
+    <b>[V-Tech Innovations: Fiscal Summary]</b>
+    - Total Revenue: $520 Million (Up 12% YoY)
+    - Net Profit Margin: 8.5%
+    - Research & Development Spending: $45 Million
+    - CEO Message: "Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow."
+  question: "Q22: Which area of technology is specifically mentioned by the CEO?"
+  options:
+    - "Artificial intelligence"
+    - "Renewable batteries"
+    - "Cloud data management"
+    - "Automotive manufacturing"
+  answer: 1
+  explanation: "【細節提取】CEO 提到 'focus on renewable battery technology'。"
+
+- id: 23
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice to Shareholders]</b>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.
+
+    <b>[V-Tech Innovations: Fiscal Summary]</b>
+    - Total Revenue: $520 Million (Up 12% YoY)
+    - Net Profit Margin: 8.5%
+    - Research & Development Spending: $45 Million
+    - CEO Message: "Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow."
+  question: "Q23: How does the current revenue compare to the previous year?"
+  options:
+    - "It is 12% higher."
+    - "It is $520 million lower."
+    - "It remains exactly the same."
+    - "It has decreased by 8.5%."
+  answer: 0
+  explanation: "【數值解讀】Fiscal Summary 顯示 Revenue $520 Million (Up 12% YoY)，YoY 指與去年同期相比。"
+
+- id: 24
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice to Shareholders]</b>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.
+
+    <b>[V-Tech Innovations: Fiscal Summary]</b>
+    - Total Revenue: $520 Million (Up 12% YoY)
+    - Net Profit Margin: 8.5%
+    - Research & Development Spending: $45 Million
+    - CEO Message: "Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow."
+  question: "Q24: Where will the AGM take place?"
+  options:
+    - "Singapore"
+    - "The Sterling Ballroom"
+    - "V-Tech Headquarters"
+    - "Online only"
+  answer: 1
+  explanation: "【地點定位】第一篇首句提到 'in the Sterling Ballroom'。"
+
+- id: 25
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice to Shareholders]</b>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.
+
+    <b>[V-Tech Innovations: Fiscal Summary]</b>
+    - Total Revenue: $520 Million (Up 12% YoY)
+    - Net Profit Margin: 8.5%
+    - Research & Development Spending: $45 Million
+    - CEO Message: "Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow."
+  question: "Q25: Why is the company delaying the plant expansion?"
+  options:
+    - "To save money for daily operations"
+    - "Because revenue was too low"
+    - "To focus more on R&D spending"
+    - "Because shareholders voted against it"
+  answer: 0
+  explanation: "【原因推論】文中提到 'to preserve cash flow' (為了維持現金流/保存資金)，對應 A 選項。"
