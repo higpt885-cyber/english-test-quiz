@@ -1,0 +1,434 @@
+- id: 1
+  part: 5
+  type: "Grammar"
+  question: "The consultant strongly recommended that the company ______ its security protocols before the end of the fiscal year."
+  options:
+    - "updates"
+    - "update"
+    - "updated"
+    - "will update"
+  answer: 1
+  explanation: "【虛擬語氣】在表示建議的動詞 recommend 之後的 that 子句中，動詞必須使用原形動詞（省略了 should），故選 (B) update。"
+
+- id: 2
+  part: 5
+  type: "Vocab"
+  question: "The board members approved the proposed budget after a ______ review of the department's financial performance."
+  options:
+    - "casual"
+    - "superficial"
+    - "painstaking"
+    - "nominal"
+  answer: 2
+  explanation: "【高階字彙】Painstaking 意為「極其細心的、辛苦的、一絲不苟的」，相當於 meticulous。語境指董事會經過嚴謹細緻的審查後批准了預算。"
+
+- id: 3
+  part: 5
+  type: "Grammar"
+  question: "Seldom ______ such an outstanding level of dedication from a newly appointed sales representative."
+  options:
+    - "we have witnessed"
+    - "have we witnessed"
+    - "we witnessed"
+    - "did we witnessed"
+  answer: 1
+  explanation: "【否定倒裝句】當否定副詞 Seldom（極少）放在句首時，主要子句必須進行倒裝（助動詞提前），結構為：否定副詞 + have/has + 主詞 + V-ed。"
+
+- id: 4
+  part: 5
+  type: "Vocab"
+  question: "To ______ the integration of the two databases, the IT team scheduled a maintenance window on Sunday night."
+  options:
+    - "facilitate"
+    - "complicate"
+    - "postpone"
+    - "ascertain"
+  answer: 0
+  explanation: "【商務動詞】Facilitate 意為「促進、使便利」。語境指為了讓兩大資料庫的整合更加順暢而安排維護時間。"
+
+- id: 5
+  part: 5
+  type: "Prep"
+  question: "The marketing department successfully launched the new campaign ______ the unexpected delay in product shipment."
+  options:
+    - "although"
+    - "notwithstanding"
+    - "even if"
+    - "because of"
+  answer: 1
+  explanation: "【高階介係詞】Notwithstanding 意為「儘管、雖然」，是介係詞，後接名詞短語（the unexpected delay）。Although 與 Even if 均為連接詞，後方需接子句。"
+
+- id: 6
+  part: 5
+  type: "Grammar"
+  question: "______ the committee been informed of the supply shortages earlier, they would have postponed the project launch."
+  options:
+    - "If"
+    - "Should"
+    - "Had"
+    - "Were"
+  answer: 2
+  explanation: "【假設法倒裝】此句為與過去事實相反的假設倒裝，原句為 'If the committee had been informed...'，省略 If 後將 Had 提前至句首。"
+
+- id: 7
+  part: 5
+  type: "Vocab"
+  question: "The software is designed to be fully ______ with all major cloud platforms, including AWS and Azure."
+  options:
+    - "compatible"
+    - "comparable"
+    - "complacent"
+    - "competent"
+  answer: 0
+  explanation: "【商務搭配】Compatible 意為「相容的」，常用於形容軟體與作業系統或雲端平台的相容性，且與 with 搭配。"
+
+- id: 8
+  part: 5
+  type: "Grammar"
+  question: "We are seeking a senior architect ______ exceptional design portfolio demonstrates a deep understanding of sustainable building practices."
+  options:
+    - "who"
+    - "whom"
+    - "whose"
+    - "which"
+  answer: 2
+  explanation: "// 關係代名詞所有格 whose 在此指代「該位建築師的」設計作品集。"
+
+- id: 9
+  part: 5
+  type: "Vocab"
+  question: "All business-related travel expenses must be submitted to the finance department for ______ within thirty days."
+  options:
+    - "reimbursement"
+    - "transaction"
+    - "deduction"
+    - "subsidy"
+  answer: 0
+  explanation: "【商務名詞】Reimbursement 意為「核銷、費用報銷」。指將差旅代墊費用向公司申請核退。"
+
+- id: 10
+  part: 5
+  type: "Vocab"
+  question: "At yesterday's summit, the newly appointed chief executive ______ outlined her strategic plan for global expansion."
+  options:
+    - "eloquent"
+    - "eloquence"
+    - "eloquently"
+    - "elocution"
+  answer: 2
+  explanation: "【副詞修飾動詞】此處需要副詞 eloquently（有說服力地、口才流利地）來修飾過去式動詞 outlined。"
+
+- id: 11
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b><br>
+    <b>From: Facilities Management</b><br>
+    <b>Date: October 15</b><br>
+    <b>Subject: Headquarters Relocation</b><br><br>
+    We are pleased to announce that our transition to the newly constructed harbor-front office is scheduled for the last weekend of November. (11) _______, the current office will be closed starting from Friday, November 27, at 1:00 PM. This move is a significant step toward modernizing our workspace. (12) _______.<br><br>
+    To ensure the move (13) _______ smoothly, please begin packing non-essential files this week. Moving boxes and labels will be provided at the reception desk starting tomorrow. Please ensure all boxes are clearly marked with your name and new department. We (14) _______ appreciate your cooperation during this transition.
+  question: "Q11: Choose the best connector."
+  options:
+    - "Therefore"
+    - "Otherwise"
+    - "Nevertheless"
+    - "For instance"
+  answer: 0
+  explanation: "【邏輯銜接】前文提到搬遷計畫，後文提到因此舊辦公室將提前關閉，兩者為因果關係，故選 Therefore (因此)。"
+
+- id: 12
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b><br>
+    <b>From: Facilities Management</b><br>
+    <b>Date: October 15</b><br>
+    <b>Subject: Headquarters Relocation</b><br><br>
+    We are pleased to announce that our transition to the newly constructed harbor-front office is scheduled for the last weekend of November. (11) _______, the current office will be closed starting from Friday, November 27, at 1:00 PM. This move is a significant step toward modernizing our workspace. (12) _______.<br><br>
+    To ensure the move (13) _______ smoothly, please begin packing non-essential files this week. Moving boxes and labels will be provided at the reception desk starting tomorrow. Please ensure all boxes are clearly marked with your name and new department. We (14) _______ appreciate your cooperation during this transition.
+  question: "Q12: Choose the best sentence to fill in the blank."
+  options:
+    - "The new facility features state-of-the-art meeting rooms and an open layout."
+    - "The building's parking rates will remain unchanged."
+    - "We recently won a major contract with an international client."
+    - "The office cafeteria will serve a complimentary lunch on Monday."
+  answer: 0
+  explanation: "【段落意旨】前文提到現代化辦公空間（modernizing our workspace），後方接續「新設施配備了頂尖會議室與開放式格局」最符合語境連貫性。"
+
+- id: 13
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b><br>
+    <b>From: Facilities Management</b><br>
+    <b>Date: October 15</b><br>
+    <b>Subject: Headquarters Relocation</b><br><br>
+    We are pleased to announce that our transition to the newly constructed harbor-front office is scheduled for the last weekend of November. (11) _______, the current office will be closed starting from Friday, November 27, at 1:00 PM. This move is a significant step toward modernizing our workspace. (12) _______.<br><br>
+    To ensure the move (13) _______ smoothly, please begin packing non-essential files this week. Moving boxes and labels will be provided at the reception desk starting tomorrow. Please ensure all boxes are clearly marked with your name and new department. We (14) _______ appreciate your cooperation during this transition.
+  question: "Q13: Choose the best verb form."
+  options:
+    - "proceeds"
+    - "proceeded"
+    - "proceeding"
+    - "is proceed"
+  answer: 0
+  explanation: "【時態判斷】在表示目的、條件或常態計畫的子句中，To ensure that 後方需使用現在簡單式，主詞為 the move (單數)，故用 proceeds。"
+
+- id: 14
+  part: 6
+  type: "Internal Memo"
+  passage: |
+    <b>To: All Staff</b><br>
+    <b>From: Facilities Management</b><br>
+    <b>Date: October 15</b><br>
+    <b>Subject: Headquarters Relocation</b><br><br>
+    We are pleased to announce that our transition to the newly constructed harbor-front office is scheduled for the last weekend of November. (11) _______, the current office will be closed starting from Friday, November 27, at 1:00 PM. This move is a significant step toward modernizing our workspace. (12) _______.<br><br>
+    To ensure the move (13) _______ smoothly, please begin packing non-essential files this week. Moving boxes and labels will be provided at the reception desk starting tomorrow. Please ensure all boxes are clearly marked with your name and new department. We (14) _______ appreciate your cooperation during this transition.
+  question: "Q14: Choose the best adverb."
+  options:
+    - "sincerely"
+    - "negligently"
+    - "reluctantly"
+    - "stagnantly"
+  answer: 0
+  explanation: "【商務副詞】Sincerely appreciate（衷心感謝）為商務信札結尾最標準的客套與表達感謝之搭配。"
+
+- id: 15
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    <b>[Notice of Annual Charity Gala]</b><br><br>
+    Bloom Enterprises is proud to host its 10th Annual Charity Gala and Silent Auction on Saturday, December 5th, in the Grand Ballroom of the Royal Hotel. All proceeds from the ticket sales and the auction will go directly to the City Youth Fund, which provides academic scholarships to underprivileged students.<br><br>
+    Tickets are priced at $150 each, but an early bird discount of 15% is available for registrations completed before November 10th. Attendees will enjoy a three-course dinner, live music performances, and the opportunity to bid on exclusive travel packages. Please note that formal attire is strictly required for this event. To secure your tickets, please visit the employee intranet portal or contact the HR department.
+  question: "Q15: What is the main purpose of the gala?"
+  options:
+    - "To celebrate Bloom Enterprises' anniversary"
+    - "To raise money for the City Youth Fund"
+    - "To announce new academic scholarships"
+    - "To recruit underprivileged students"
+  answer: 1
+  explanation: "【主旨定位】第一段提到所有收益（all proceeds）都將捐給城市青年基金（City Youth Fund），即籌款目的。"
+
+- id: 16
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    <b>[Notice of Annual Charity Gala]</b><br><br>
+    Bloom Enterprises is proud to host its 10th Annual Charity Gala and Silent Auction on Saturday, December 5th, in the Grand Ballroom of the Royal Hotel. All proceeds from the ticket sales and the auction will go directly to the City Youth Fund, which provides academic scholarships to underprivileged students.<br><br>
+    Tickets are priced at $150 each, but an early bird discount of 15% is available for registrations completed before November 10th. Attendees will enjoy a three-course dinner, live music performances, and the opportunity to bid on exclusive travel packages. Please note that formal attire is strictly required for this event. To secure your tickets, please visit the employee intranet portal or contact the HR department.
+  question: "Q16: Where will the event be held?"
+  options:
+    - "At Bloom Enterprises headquarters"
+    - "In the Grand Ballroom of the Royal Hotel"
+    - "At the City Youth Fund center"
+    - "At a local university campus"
+  answer: 1
+  explanation: "【細節定位】第一句明確指出舉辦地點為 Royal Hotel 的 Grand Ballroom。"
+
+- id: 17
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    <b>[Notice of Annual Charity Gala]</b><br><br>
+    Bloom Enterprises is proud to host its 10th Annual Charity Gala and Silent Auction on Saturday, December 5th, in the Grand Ballroom of the Royal Hotel. All proceeds from the ticket sales and the auction will go directly to the City Youth Fund, which provides academic scholarships to underprivileged students.<br><br>
+    Tickets are priced at $150 each, but an early bird discount of 15% is available for registrations completed before November 10th. Attendees will enjoy a three-course dinner, live music performances, and the opportunity to bid on exclusive travel packages. Please note that formal attire is strictly required for this event. To secure your tickets, please visit the employee intranet portal or contact the HR department.
+  question: "Q17: What must attendees do to get a 15% discount on tickets?"
+  options:
+    - "Purchase tickets before November 10th"
+    - "Be a student scholarship recipient"
+    - "Donate an item for the silent auction"
+    - "Buy more than ten tickets at once"
+  answer: 0
+  explanation: "【細節理解】第二段提到早鳥優惠 15%（early bird discount of 15%）必須在 11 月 10 日前完成報名。"
+
+- id: 18
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    <b>[Notice of Annual Charity Gala]</b><br><br>
+    Bloom Enterprises is proud to host its 10th Annual Charity Gala and Silent Auction on Saturday, December 5th, in the Grand Ballroom of the Royal Hotel. All proceeds from the ticket sales and the auction will go directly to the City Youth Fund, which provides academic scholarships to underprivileged students.<br><br>
+    Tickets are priced at $150 each, but an early bird discount of 15% is available for registrations completed before November 10th. Attendees will enjoy a three-course dinner, live music performances, and the opportunity to bid on exclusive travel packages. Please note that formal attire is strictly required for this event. To secure your tickets, please visit the employee intranet portal or contact the HR department.
+  question: "Q18: What is mentioned about the event's dress code?"
+  options:
+    - "Casual clothing is recommended."
+    - "Attendees must wear formal attire."
+    - "Sports clothing is permitted on weekends."
+    - "Custom-designed uniforms are required."
+  answer: 1
+  explanation: "【細節理解】文中指出 'formal attire is strictly required'，即嚴格規定穿著正式服裝。"
+
+- id: 19
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice: Business Travel Policy Revision]</b><br>
+    <b>To: All Departments</b><br>
+    <b>From: Corporate Operations</b><br>
+    <b>Date: September 1</b><br><br>
+    Please be advised that effective October 1, the company will revise its travel policy regarding domestic flight bookings. Under the new policy, business class travel will only be authorized for non-stop flights exceeding six hours in duration. All other domestic flights must be booked in economy class to optimize corporate expenditure. Exceptions must be approved in writing by a department director at least 10 days prior to the departure date.<br><br>
+    <b>[Email: Policy Feedback]</b><br>
+    <b>Date: September 5</b><br>
+    <b>To: Corporate Operations</b><br>
+    <b>From: David Miller (Sales Director, East Region)</b><br><br>
+    Dear Operations Team,<br>
+    I am writing regarding the upcoming travel policy change. While I understand the need to control costs, my sales representatives travel extensively between Sydney and Perth (a five-hour flight) multiple times a week to meet with key clients. <br><br>
+    Traveling in economy class frequently before full-day business negotiations significantly impacts their productivity and readiness. Since our regional sales volume has grown by 25% this year, saving on travel might compromise our revenue. Could we defer the implementation of this policy for the Sales division, or at least exempt flights over four hours?
+  question: "Q19: When will the new travel policy become effective?"
+  options:
+    - "September 1"
+    - "September 5"
+    - "October 1"
+    - "Next fiscal year"
+  answer: 2
+  explanation: "【第一篇定位】Notice 首句提到 'effective October 1'（十月一日起生效）。"
+
+- id: 20
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice: Business Travel Policy Revision]</b><br>
+    <b>To: All Departments</b><br>
+    <b>From: Corporate Operations</b><br>
+    <b>Date: September 1</b><br><br>
+    Please be advised that effective October 1, the company will revise its travel policy regarding domestic flight bookings. Under the new policy, business class travel will only be authorized for non-stop flights exceeding six hours in duration. All other domestic flights must be booked in economy class to optimize corporate expenditure. Exceptions must be approved in writing by a department director at least 10 days prior to the departure date.<br><br>
+    <b>[Email: Policy Feedback]</b><br>
+    <b>Date: September 5</b><br>
+    <b>To: Corporate Operations</b><br>
+    <b>From: David Miller (Sales Director, East Region)</b><br><br>
+    Dear Operations Team,<br>
+    I am writing regarding the upcoming travel policy change. While I understand the need to control costs, my sales representatives travel extensively between Sydney and Perth (a five-hour flight) multiple times a week to meet with key clients. <br><br>
+    Traveling in economy class frequently before full-day business negotiations significantly impacts their productivity and readiness. Since our regional sales volume has grown by 25% this year, saving on travel might compromise our revenue. Could we defer the implementation of this policy for the Sales division, or at least exempt flights over four hours?
+  question: "Q20: According to the new policy, what is required for a business class domestic flight booking?"
+  options:
+    - "A non-stop flight exceeding six hours"
+    - "An approval from the CEO"
+    - "A travel history of over five years"
+    - "A registration on the corporate portal"
+  answer: 0
+  explanation: "【第一篇定位】Notice 指出只有超過 6 小時的直飛航班（non-stop flights exceeding six hours）才允許購買商務艙。"
+
+- id: 21
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice: Business Travel Policy Revision]</b><br>
+    <b>To: All Departments</b><br>
+    <b>From: Corporate Operations</b><br>
+    <b>Date: September 1</b><br><br>
+    Please be advised that effective October 1, the company will revise its travel policy regarding domestic flight bookings. Under the new policy, business class travel will only be authorized for non-stop flights exceeding six hours in duration. All other domestic flights must be booked in economy class to optimize corporate expenditure. Exceptions must be approved in writing by a department director at least 10 days prior to the departure date.<br><br>
+    <b>[Email: Policy Feedback]</b><br>
+    <b>Date: September 5</b><br>
+    <b>To: Corporate Operations</b><br>
+    <b>From: David Miller (Sales Director, East Region)</b><br><br>
+    Dear Operations Team,<br>
+    I am writing regarding the upcoming travel policy change. While I understand the need to control costs, my sales representatives travel extensively between Sydney and Perth (a five-hour flight) multiple times a week to meet with key clients. <br><br>
+    Traveling in economy class frequently before full-day business negotiations significantly impacts their productivity and readiness. Since our regional sales volume has grown by 25% this year, saving on travel might compromise our revenue. Could we defer the implementation of this policy for the Sales division, or at least exempt flights over four hours?
+  question: "Q21: Who is David Miller?"
+  options:
+    - "A travel agent"
+    - "A sales director"
+    - "A logistics coordinator"
+    - "The CEO of the company"
+  answer: 1
+  explanation: "【第二篇定位】信件寄件人標註為 'Sales Director, East Region'。"
+
+- id: 22
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice: Business Travel Policy Revision]</b><br>
+    <b>To: All Departments</b><br>
+    <b>From: Corporate Operations</b><br>
+    <b>Date: September 1</b><br><br>
+    Please be advised that effective October 1, the company will revise its travel policy regarding domestic flight bookings. Under the new policy, business class travel will only be authorized for non-stop flights exceeding six hours in duration. All other domestic flights must be booked in economy class to optimize corporate expenditure. Exceptions must be approved in writing by a department director at least 10 days prior to the departure date.<br><br>
+    <b>[Email: Policy Feedback]</b><br>
+    <b>Date: September 5</b><br>
+    <b>To: Corporate Operations</b><br>
+    <b>From: David Miller (Sales Director, East Region)</b><br><br>
+    Dear Operations Team,<br>
+    I am writing regarding the upcoming travel policy change. While I understand the need to control costs, my sales representatives travel extensively between Sydney and Perth (a five-hour flight) multiple times a week to meet with key clients. <br><br>
+    Traveling in economy class frequently before full-day business negotiations significantly impacts their productivity and readiness. Since our regional sales volume has grown by 25% this year, saving on travel might compromise our revenue. Could we defer the implementation of this policy for the Sales division, or at least exempt flights over four hours?
+  question: "Q22: How long is the flight between Sydney and Perth?"
+  options:
+    - "Three hours"
+    - "Four hours"
+    - "Five hours"
+    - "Six hours"
+  answer: 2
+  explanation: "【第二篇定位】David 的信中提到 'between Sydney and Perth (a five-hour flight)'（5小時的航程）。"
+
+- id: 23
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice: Business Travel Policy Revision]</b><br>
+    <b>To: All Departments</b><br>
+    <b>From: Corporate Operations</b><br>
+    <b>Date: September 1</b><br><br>
+    Please be advised that effective October 1, the company will revise its travel policy regarding domestic flight bookings. Under the new policy, business class travel will only be authorized for non-stop flights exceeding six hours in duration. All other domestic flights must be booked in economy class to optimize corporate expenditure. Exceptions must be approved in writing by a department director at least 10 days prior to the departure date.<br><br>
+    <b>[Email: Policy Feedback]</b><br>
+    <b>Date: September 5</b><br>
+    <b>To: Corporate Operations</b><br>
+    <b>From: David Miller (Sales Director, East Region)</b><br><br>
+    Dear Operations Team,<br>
+    I am writing regarding the upcoming travel policy change. While I understand the need to control costs, my sales representatives travel extensively between Sydney and Perth (a five-hour flight) multiple times a week to meet with key clients. <br><br>
+    Traveling in economy class frequently before full-day business negotiations significantly impacts their productivity and readiness. Since our regional sales volume has grown by 25% this year, saving on travel might compromise our revenue. Could we defer the implementation of this policy for the Sales division, or at least exempt flights over four hours?
+  question: "Q23: Why is David Miller concerned about the new policy?"
+  options:
+    - "He believes it will reduce his team's productivity."
+    - "He thinks the travel budget is too high."
+    - "He wants to relocate the sales team to Perth."
+    - "He wants to cancel meetings with key clients."
+  answer: 0
+  explanation: "【推理分析】信中提到 'Traveling in economy class... significantly impacts their productivity'（改坐經濟艙會嚴重影響他們的生產力與準備狀態）。"
+
+- id: 24
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice: Business Travel Policy Revision]</b><br>
+    <b>To: All Departments</b><br>
+    <b>From: Corporate Operations</b><br>
+    <b>Date: September 1</b><br><br>
+    Please be advised that effective October 1, the company will revise its travel policy regarding domestic flight bookings. Under the new policy, business class travel will only be authorized for non-stop flights exceeding six hours in duration. All other domestic flights must be booked in economy class to optimize corporate expenditure. Exceptions must be approved in writing by a department director at least 10 days prior to the departure date.<br><br>
+    <b>[Email: Policy Feedback]</b><br>
+    <b>Date: September 5</b><br>
+    <b>To: Corporate Operations</b><br>
+    <b>From: David Miller (Sales Director, East Region)</b><br><br>
+    Dear Operations Team,<br>
+    I am writing regarding the upcoming travel policy change. While I understand the need to control costs, my sales representatives travel extensively between Sydney and Perth (a five-hour flight) multiple times a week to meet with key clients. <br><br>
+    Traveling in economy class frequently before full-day business negotiations significantly impacts their productivity and readiness. Since our regional sales volume has grown by 25% this year, saving on travel might compromise our revenue. Could we defer the implementation of this policy for the Sales division, or at least exempt flights over four hours?
+  question: "Q24: By how much has the East Region's sales volume grown this year?"
+  options:
+    - "5%"
+    - "10%"
+    - "15%"
+    - "25%"
+  answer: 3
+  explanation: "【細節定位】David 提到 'our regional sales volume has grown by 25% this year'。"
+
+- id: 25
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Notice: Business Travel Policy Revision]</b><br>
+    <b>To: All Departments</b><br>
+    <b>From: Corporate Operations</b><br>
+    <b>Date: September 1</b><br><br>
+    Please be advised that effective October 1, the company will revise its travel policy regarding domestic flight bookings. Under the new policy, business class travel will only be authorized for non-stop flights exceeding six hours in duration. All other domestic flights must be booked in economy class to optimize corporate expenditure. Exceptions must be approved in writing by a department director at least 10 days prior to the departure date.<br><br>
+    <b>[Email: Policy Feedback]</b><br>
+    <b>Date: September 5</b><br>
+    <b>To: Corporate Operations</b><br>
+    <b>From: David Miller (Sales Director, East Region)</b><br><br>
+    Dear Operations Team,<br>
+    I am writing regarding the upcoming travel policy change. While I understand the need to control costs, my sales representatives travel extensively between Sydney and Perth (a five-hour flight) multiple times a week to meet with key clients. <br><br>
+    Traveling in economy class frequently before full-day business negotiations significantly impacts their productivity and readiness. Since our regional sales volume has grown by 25% this year, saving on travel might compromise our revenue. Could we defer the implementation of this policy for the Sales division, or at least exempt flights over four hours?
+  question: "Q25: What does David Miller propose as an alternative?"
+  options:
+    - "Postponing the policy for his department"
+    - "Booking flights with other airlines"
+    - "Cancelling all domestic travel"
+    - "Reducing the ticket reimbursement rate"
+  answer: 0
+  explanation: "【同義替換】David 問到 'Could we defer the implementation of this policy for the Sales division'，Defer 對應選項 (A) Postponing。"
