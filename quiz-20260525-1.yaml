@@ -1,356 +1,395 @@
 - id: 1
   part: 5
-  type: "Grammar"
-  question: "The executive board requested that the proposed merger _______ by the legal department before any contracts are signed."
+  type: "Vocab"
+  question: "The legal department issued a _______ statement regarding the unauthorized use of the company's trademarked logos."
   options:
-    - "is reviewed"
-    - "be reviewed"
-    - "will review"
-    - "was reviewed"
+    - "superficial"
+    - "categorical"
+    - "vague"
+    - "precarious"
   answer: 1
-  explanation: "【虛擬語氣】在表示要求的動詞 request 之後的 that 子句，動詞需使用原形動詞（省略 should），且 merger（合併案）應是被審查，故選 be reviewed。"
+  explanation: "【商務詞彙】Categorical 意為「絕對的、明確的、不留餘地的」。語境指法律部門發出明確且嚴正的聲明。"
 
 - id: 2
   part: 5
-  type: "Vocab"
-  question: "Due to her _______ attention to detail, Ms. Vance was promoted to Senior Quality Assurance Auditor."
+  type: "Grammar"
+  question: "The director suggested that the annual budget _______ to account for the fluctuating exchange rates in the international market."
   options:
-    - "meticulous"
-    - "superficial"
-    - "vacant"
-    - "nominal"
-  answer: 0
-  explanation: "【商務字彙】Meticulous 意為「一絲不苟的、極其細心的」。語境指因對細節的專注與嚴謹而獲得晉升。"
+    - "adjusts"
+    - "be adjusted"
+    - "is adjusting"
+    - "had adjusted"
+  answer: 1
+  explanation: "【虛擬語氣】在 suggest (建議) 之後的 that 子句需使用原形動詞（省略 should），且預算應是被調整，故選 be adjusted。"
 
 - id: 3
   part: 5
-  type: "Grammar"
-  question: "Only after the financial audit is completed _______ the board authorize the expansion of the overseas facility."
+  type: "Vocab"
+  question: "The new residential complex was designed to _______ the natural landscape rather than disrupt it."
   options:
-    - "does"
-    - "will"
-    - "is"
-    - "did"
+    - "compliment"
+    - "complement"
+    - "compromise"
+    - "complicate"
   answer: 1
-  explanation: "【倒裝句】當 'Only after...' 引導的副詞子句置於句首時，主要子句需採用倒裝結構。因時態指未來將會授權，故使用助動詞 will 提前。"
+  explanation: "【易混淆字】Complement 是「相輔相成、補充」。Compliment 則是「讚美」。此處指建築與景觀相得益彰。"
 
 - id: 4
   part: 5
-  type: "Vocab"
-  question: "The updated security protocols _______ the need for employees to manually log their entry and exit times."
+  type: "Grammar"
+  question: "_______ the CEO had anticipated the market crash, she would have liquidated the company's riskier assets much earlier."
   options:
-    - "preclude"
-    - "attribute"
-    - "validate"
-    - "default"
-  answer: 0
-  explanation: "【動詞辨析】Preclude 意為「排除、使無可能、免除」。在此指新型安全協定「免除了」員工手動記錄出入時間的需要。"
+    - "Should"
+    - "Were"
+    - "Had"
+    - "If"
+  answer: 2
+  explanation: "【假設法倒裝】If she had anticipated... 的倒裝形式為 Had she anticipated...。主句用 would have liquidated 表示與過去事實相反。"
 
 - id: 5
   part: 5
-  type: "Prep"
-  question: "The sales team managed to achieve their annual targets early _______ the severe supply chain delays in the first quarter."
+  type: "Vocab"
+  question: "The research team’s findings were _______ enough to secure a multi-million dollar grant from the government."
   options:
-    - "although"
-    - "notwithstanding"
-    - "even if"
-    - "regardless"
-  answer: 1
-  explanation: "【高階介係詞】Notwithstanding 意為「儘管、雖然」，是介係詞，後方直接接名詞片語（delays）。Although 與 Even if 均為連接詞，後方需接完整子句。"
+    - "compelling"
+    - "compulsory"
+    - "compensatory"
+    - "complacent"
+  answer: 0
+  explanation: "【商務詞彙】Compelling 意為「令人信服的、有說服力的」。語境指研究結果很有力，因此獲得撥款。"
 
 - id: 6
   part: 5
   type: "Grammar"
-  question: "Had the marketing team _______ the campaign earlier, the quarterly revenue would have been significantly higher."
+  question: "The company plans to expand its operations into Eastern Europe, _______ that the current political situation remains stable."
   options:
-    - "launch"
-    - "launched"
-    - "launching"
-    - "launches"
-  answer: 1
-  explanation: "【假設法倒裝】此句為與過去事實相反的假設法倒裝。原句為 'If the team had launched...'，省略 If 後將助動詞 Had 提前。"
+    - "provided"
+    - "unless"
+    - "even though"
+    - "nevertheless"
+  answer: 0
+  explanation: "【條件連接詞】Provided (that) 意為「假如、在...條件下」。語境指在政治穩定前提下才會擴張。"
 
 - id: 7
   part: 5
   type: "Vocab"
-  question: "To remain competitive in the market, we must ensure that our software is fully _______ with all major operating systems."
+  question: "The merger was initially met with skepticism, but it has since proved to be a _______ move for both organizations."
   options:
-    - "compatible"
-    - "comparable"
-    - "complacent"
-    - "competitive"
-  answer: 0
-  explanation: "【商務字彙】Compatible 意為「相容的」，常與介係詞 with 連用，指與操作系統相容。"
+    - "scanty"
+    - "stagnant"
+    - "shrewd"
+    - "spontaneous"
+  answer: 2
+  explanation: "【職場詞彙】Shrewd 意為「精明的、明智的」。語境指雖然最初有疑慮，但事後證明是精明的舉措。"
 
 - id: 8
   part: 5
   type: "Grammar"
-  question: "The new corporate headquarters was designed with features _______ are highly energy-efficient and eco-friendly."
+  question: "Rarely _______ any single employee shown such a high level of dedication to the company's core values."
   options:
-    - "who"
-    - "whose"
-    - "that"
-    - "whom"
-  answer: 2
-  explanation: "【關係代名詞】關係代名詞 that 在限定關係子句中擔任主詞，用來修飾指物的前行詞 features。"
+    - "is"
+    - "has"
+    - "did"
+    - "had"
+  answer: 1
+  explanation: "【倒裝句】否定副詞 Rarely 放在句首引導倒裝。主詞是 single employee，且語意指到目前為止的經驗，用現在完成式 has。"
 
 - id: 9
   part: 5
   type: "Vocab"
-  question: "Under the new policy, employees can request _______ for any business-related travel expenses within thirty days."
+  question: "The technical manual is so _______ written that even non-experts can understand the complex assembly process."
   options:
-    - "reimbursement"
-    - "transaction"
-    - "deduction"
-    - "subsidy"
+    - "lucidly"
+    - "ludicrously"
+    - "languidly"
+    - "loftily"
   answer: 0
-  explanation: "【商務名詞】Reimbursement 意為「（代墊費用的）核銷、退款」。指差旅費用的公帳報銷。"
+  explanation: "【修飾副詞】Lucidly 意為「清晰地、明瞭地」。語境指手冊寫得極其清晰。"
 
 - id: 10
   part: 5
-  type: "Vocab"
-  question: "The newly appointed executive _______ presented her vision for the company's sustainable growth at the annual summit."
+  type: "Prep"
+  question: "The board members expressed their unwavering support for the new CEO _______ the recent drop in stock prices."
   options:
-    - "eloquent"
-    - "eloquence"
-    - "eloquently"
-    - "elocution"
-  answer: 2
-  explanation: "【副詞修飾動詞】此處需要副詞 eloquently（雄辯地、有說服力地）來修飾過去式動詞 presented。"
+    - "notwithstanding"
+    - "in light of"
+    - "rather than"
+    - "as opposed to"
+  answer: 0
+  explanation: "【高階介係詞】Notwithstanding 意為「儘管」。語意指儘管股價下跌，董事會仍支持 CEO。"
 
 - id: 11
   part: 6
-  type: "Internal Announcement"
+  type: "Internal Memo"
   passage: |
-    <b>To: All Staff</b>
-    <b>From: IT Support Directorate</b>
-    <b>Date: May 25</b>
-    <b>Subject: Mandatory Password Upgrade</b>
-
-    Please be advised that we will be upgrading our security infrastructure this weekend. (11) _______, all current user passwords will expire on Saturday at 11:59 PM. To maintain access to your corporate email, you must create a new password before the deadline. (12) _______.
-
+    <b>To: All Staff</b><br>
+    <b>From: IT Support Directorate</b><br>
+    <b>Date: May 25</b><br>
+    <b>Subject: Mandatory Password Upgrade</b><br><br>
+    Please be advised that we will be upgrading our security infrastructure this weekend. (11) _______, all current user passwords will expire on Saturday at 11:59 PM. To maintain access to your corporate email, you must create a new password before the deadline. (12) _______.<br><br>
     The new password must be (13) _______ ten characters long and contain at least one special character. Should you encounter any issues during the migration, please (14) _______ your inquiries to our help desk. We (15) _______ appreciate your cooperation in helping us secure our network.
-  question: "Q11: Choose the best connector."
+  question: "Q11: Choose the best verb form."
   options:
-    - "Nevertheless"
-    - "Consequently"
-    - "Otherwise"
-    - "For instance"
+    - "undertakes"
+    - "will undertake"
+    - "undertook"
+    - "has undertaken"
   answer: 1
-  explanation: "【邏輯關係】前文提到安全架構升級，後文提到因此密碼將會過期，為因果關係，選 Consequently (因此)。"
+  explanation: "【時態判斷】由 'Over the next quarter' (在下一季) 可知應使用未來式 will undertake。"
 
 - id: 12
   part: 6
-  type: "Internal Announcement"
+  type: "Internal Memo"
   passage: |
-    (同前文內容)
+    <b>To: All Staff</b><br>
+    <b>From: IT Support Directorate</b><br>
+    <b>Date: May 25</b><br>
+    <b>Subject: Mandatory Password Upgrade</b><br><br>
+    Please be advised that we will be upgrading our security infrastructure this weekend. (11) _______, all current user passwords will expire on Saturday at 11:59 PM. To maintain access to your corporate email, you must create a new password before the deadline. (12) _______.<br><br>
+    The new password must be (13) _______ ten characters long and contain at least one special character. Should you encounter any issues during the migration, please (14) _______ your inquiries to our help desk. We (15) _______ appreciate your cooperation in helping us secure our network.
   question: "Q12: Choose the best sentence to fill in the blank."
   options:
-    - "The IT office will be relocated next month."
-    - "Access to the building will require a physical key card."
-    - "Failure to do so will result in temporary account suspension."
-    - "We hope you enjoy the new cafeteria menu."
-  answer: 2
-  explanation: "【上下文邏輯】前文提到必須在截止日期前建立新密碼，此處接「若沒這麼做將導致帳號暫時停用」最為連貫。"
+    - "The IT department will hold individual training sessions for each team."
+    - "The office kitchen will be renovated during the same period."
+    - "New coffee machines have already been installed in the breakroom."
+    - "Employee health insurance premiums will remain unchanged this year."
+  answer: 0
+  explanation: "【上下文邏輯】此段在討論數位系統轉型，提到為團隊進行訓練最為合理且連貫。"
 
 - id: 13
   part: 6
-  type: "Internal Announcement"
+  type: "Internal Memo"
   passage: |
-    (同前文內容)
-  question: "Q13: Choose the best adverb."
+    <b>To: All Staff</b><br>
+    <b>From: IT Support Directorate</b><br>
+    <b>Date: May 25</b><br>
+    <b>Subject: Mandatory Password Upgrade</b><br><br>
+    Please be advised that we will be upgrading our security infrastructure this weekend. (11) _______, all current user passwords will expire on Saturday at 11:59 PM. To maintain access to your corporate email, you must create a new password before the deadline. (12) _______.<br><br>
+    The new password must be (13) _______ ten characters long and contain at least one special character. Should you encounter any issues during the migration, please (14) _______ your inquiries to our help desk. We (15) _______ appreciate your cooperation in helping us secure our network.
+  question: "Q13: Choose the best adjective."
   options:
-    - "at least"
-    - "at most"
-    - "up to"
-    - "approximately"
+    - "inaccessible"
+    - "inaccurate"
+    - "inanimate"
+    - "inadequate"
   answer: 0
-  explanation: "【固定搭配】At least ten characters long 意為「至少 10 個字元長」，為設定密碼時的長度規範語境。"
+  explanation: "【精準詞彙】Inaccessible 意為「無法進入的、無法讀取的」。語境指系統維護時資料庫可能暫時無法使用。"
 
 - id: 14
   part: 6
-  type: "Internal Announcement"
+  type: "Internal Memo"
   passage: |
-    (同前文內容)
-  question: "Q14: Choose the best verb."
+    <b>To: All Staff</b><br>
+    <b>From: IT Support Directorate</b><br>
+    <b>Date: May 25</b><br>
+    <b>Subject: Mandatory Password Upgrade</b><br><br>
+    Please be advised that we will be upgrading our security infrastructure this weekend. (11) _______, all current user passwords will expire on Saturday at 11:59 PM. To maintain access to your corporate email, you must create a new password before the deadline. (12) _______.<br><br>
+    The new password must be (13) _______ ten characters long and contain at least one special character. Should you encounter any issues during the migration, please (14) _______ your inquiries to our help desk. We (15) _______ appreciate your cooperation in helping us secure our network.
+  question: "Q14: Choose the best adverb."
   options:
-    - "direct"
-    - "distract"
-    - "discard"
-    - "default"
-  answer: 0
-  explanation: "【商務動詞】Direct your inquiries to... 意為「將您的問題/諮詢寄送至...」，是商務書信的標準搭配詞。"
+    - "negligently"
+    - "strenuously"
+    - "diligent"
+    - "assiduously"
+  answer: 3
+  explanation: "【商務副詞】Assiduously 意為「勤奮地、孜孜不倦地」。常用於形容企業努力改善流程。"
 
 - id: 15
-  part: 6
-  type: "Internal Announcement"
+  part: 7
+  type: "Article"
   passage: |
-    (同前文內容)
-  question: "Q15: Choose the best adverb."
+    <b>Global Logistics Crisis: Ports at Capacity</b><br><br>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays.<br><br>
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q15: What is mentioned as a cause of the shipping hub backlog?"
   options:
-    - "sincerely"
-    - "negligently"
-    - "reluctantly"
-    - "stagnantly"
-  answer: 0
-  explanation: "【書信禮儀】Sincerely appreciate 意為「衷心感謝」，為商務公告中表達感激與禮貌的最高頻副詞。"
+    - "A decrease in oil prices"
+    - "An increase in electronics imports"
+    - "A major earthquake in Europe"
+    - "A reduction in port taxes"
+  answer: 1
+  explanation: "【細節定位】第一段提到 'surge in consumer electronics imports'。"
 
 - id: 16
   part: 7
-  type: "Facility Notice"
+  type: "Article"
   passage: |
-    <b>[Notice of Facility Maintenance]</b>
-
-    Please note that the main parking garage will be closed for resurfacing and structural inspections from Monday, June 1, through Wednesday, June 3. During this period, no vehicles will be permitted to park in the garage.
-
-    To accommodate staff, the company has secured temporary parking privileges at the nearby Metro Center Lot, located two blocks east of our building. To park there for free, you must display your company parking permit on your dashboard. Shuttle buses will run between the Metro Center Lot and the office entrance every 15 minutes during peak hours (7:30 AM - 9:30 AM and 4:30 PM - 6:30 PM). Normal parking garage operations will resume on Thursday, June 4, at 6:00 AM.
-  question: "Q16: Why is the parking garage being closed?"
+    <b>Global Logistics Crisis: Ports at Capacity</b><br><br>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays.<br><br>
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q16: By how much has the average berthing delay at the Port of Antwerp-Bruges increased?"
   options:
-    - "For security system installations"
-    - "For resurfacing and inspections"
-    - "To build a new shuttle station"
-    - "To expand its parking capacity"
+    - "24 hours"
+    - "48 hours"
+    - "72 hours"
+    - "One month"
   answer: 1
-  explanation: "【細節定位】首段明確指出關閉原因是為了 resurfacing and structural inspections（重鋪路面與結構檢查）。"
+  explanation: "【資訊處理】文中說延遲從 24 小時增加到 72 小時，增加量 (Increase) 為 48 小時。"
 
 - id: 17
   part: 7
-  type: "Facility Notice"
+  type: "Article"
   passage: |
-    (同前文內容)
-  question: "Q17: Where can employees park during the closure?"
+    <b>Global Logistics Crisis: Ports at Capacity</b><br><br>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays.<br><br>
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q17: According to Marcus Vane, what is required for distribution centers to stop operating under duress?"
   options:
-    - "At the West Wing underground lot"
-    - "Along the main street"
-    - "At the Metro Center Lot"
-    - "At the city center lot"
+    - "Lowering the price of consumer stock"
+    - "Hiring more logistical consultants"
+    - "Improving efficiency at source ports"
+    - "Building more shelves in retail stores"
   answer: 2
-  explanation: "【細節定位】第二段指出公司已在附近的 Metro Center Lot 取得了臨時停車使用權。"
+  explanation: "【最後細節】文章最後提到 'Until throughput efficiency improves at the source ports...'。"
 
 - id: 18
   part: 7
-  type: "Facility Notice"
+  type: "Article"
   passage: |
-    (同前文內容)
-  question: "Q18: What is required to receive free parking at the temporary lot?"
+    <b>Global Logistics Crisis: Ports at Capacity</b><br><br>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays.<br><br>
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q18: When would goods meant for June likely become available to consumers?"
   options:
-    - "A barcode on your smartphone"
-    - "A cash payment receipt"
-    - "Your employee ID badge on your collar"
-    - "Your company parking permit on your dashboard"
-  answer: 3
-  explanation: "【細節定位】文中提到 'you must display your company parking permit on your dashboard'（必須在儀表板上出示停車證）。"
+    - "In May"
+    - "In July"
+    - "In late August"
+    - "In early September"
+  answer: 2
+  explanation: "【時間定位】文中提到 'may not hit shelves until late August'。"
 
 - id: 19
   part: 7
-  type: "Facility Notice"
+  type: "Article"
   passage: |
-    (同前文內容)
-  question: "Q19: When will the main parking garage reopen?"
+    <b>Global Logistics Crisis: Ports at Capacity</b><br><br>
+    Recent disruptions in global maritime routes have led to an unprecedented backlog at major shipping hubs. Industry analysts point to a combination of labor shortages and a sudden surge in consumer electronics imports as the primary catalysts for the current delays.<br><br>
+    The Port of Antwerp-Bruges, the second-largest in Europe, reported that the average berthing delay for container vessels has increased from 24 hours to 72 hours over the last month. For retail giants, this means that seasonal stock originally intended for June arrival may not hit shelves until late August. "We are seeing a ripple effect that touches every node of the supply chain," said Marcus Vane, a senior logistical consultant. "Until throughput efficiency improves at the source ports, secondary distribution centers will continue to operate under duress."
+  question: "Q19: Which word is closest in meaning to 'catalysts' in the first paragraph?"
   options:
-    - "Monday, June 1"
-    - "Wednesday, June 3"
-    - "Thursday, June 4"
-    - "Friday, June 5"
-  answer: 2
-  explanation: "【日期判斷】最後一句指出 'Normal parking garage operations will resume on Thursday, June 4'（週四恢復營運）。"
+    - "Obstacles"
+    - "Triggers"
+    - "Results"
+    - "Solutions"
+  answer: 1
+  explanation: "【詞義推斷】Catalyst 指「催化劑、觸發因素」，在此對應 Triggers。"
 
 - id: 20
   part: 7
   type: "Double Passage"
   passage: |
-    <b>[Product Delivery Notice]</b>
-    Invoice #90123
-    Customer: Apex Retailers
-    Dispatched Date: May 10
-    Expected Delivery: May 14
-    Courier: FastTrack Logistics
-
-    <b>[Urgent Email from Customer]</b>
-    Date: May 16
-    To: Customer Service, FastTrack Logistics
-    From: Shipping Manager, Apex Retailers
-    Subject: Missing Shipment (Invoice #90123)
-
-    Dear Support Team,
-    We are writing to report that our shipment (Invoice #90123), which was scheduled to arrive at our warehouse on May 14, has not yet delivered. Our retail promotional event is scheduled to launch on May 19, and the items in this shipment are critical for this event.
-
-    According to the tracking portal, the shipment has been delayed at the Springfield sorting facility due to severe weather conditions. Given the urgency, could you expedite this package so it arrives by May 18? If that is not possible, we will need to arrange for local pickup.
-  question: "Q20: When was the shipment originally expected to arrive?"
+    <b>[Notice to Shareholders]</b><br>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.<br><br>
+    <b>[V-Tech Innovations: Fiscal Summary]</b><br>
+    - Total Revenue: $520 Million (Up 12% YoY)<br>
+    - Net Profit Margin: 8.5%<br>
+    - Research & Development Spending: $45 Million<br>
+    - CEO Message: \"Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow.\"
+  question: "Q20: What will shareholders vote on at the meeting?"
   options:
-    - "May 10"
-    - "May 14"
-    - "May 16"
-    - "May 19"
+    - "The relocation of the Singapore plant"
+    - "A 5% increase in dividends"
+    - "A reduction in R&D spending"
+    - "The appointment of a new CEO"
   answer: 1
-  explanation: "【定位題】第一篇發票的 Expected Delivery 及第二篇信件中均提到原訂送達日為 May 14。"
+  explanation: "【第一篇定位】Notice 提到 'voting on the proposed dividend increase of 5%'。"
 
 - id: 21
   part: 7
   type: "Double Passage"
   passage: |
-    (同前文內容)
-  question: "Q21: Who is the recipient of the shipment?"
+    <b>[Notice to Shareholders]</b><br>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.<br><br>
+    <b>[V-Tech Innovations: Fiscal Summary]</b><br>
+    - Total Revenue: $520 Million (Up 12% YoY)<br>
+    - Net Profit Margin: 8.5%<br>
+    - Research & Development Spending: $45 Million<br>
+    - CEO Message: \"Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow.\"
+  question: "Q21: What is the current status of the Singapore plant expansion?"
   options:
-    - "FastTrack Logistics"
-    - "Apex Retailers"
-    - "Springfield Sorting"
-    - "Customer Service"
-  answer: 1
-  explanation: "【主體判定】發票中的 Customer 是 Apex Retailers，寄信人也是該公司的 Shipping Manager，故其為收件人。"
+    - "It has been completed ahead of schedule."
+    - "It is being moved to the Sterling Ballroom."
+    - "It has been postponed until next year."
+    - "It was cancelled due to low revenue."
+  answer: 2
+  explanation: "【跨篇章推論】CEO Message 提到 'defer the expansion... until the next fiscal cycle'，Defer 等於 Postpone。"
 
 - id: 22
   part: 7
   type: "Double Passage"
   passage: |
-    (同前文內容)
-  question: "Q22: What is the cause of the shipping delay?"
+    <b>[Notice to Shareholders]</b><br>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.<br><br>
+    <b>[V-Tech Innovations: Fiscal Summary]</b><br>
+    - Total Revenue: $520 Million (Up 12% YoY)<br>
+    - Net Profit Margin: 8.5%<br>
+    - Research & Development Spending: $45 Million<br>
+    - CEO Message: \"Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow.\"
+  question: "Q22: Which area of technology is specifically mentioned by the CEO?"
   options:
-    - "A sorting machine malfunction"
-    - "Labor shortages at the port"
-    - "Severe weather conditions"
-    - "An incorrect shipping address"
-  answer: 2
-  explanation: "【細節定位】第二篇電子郵件中明確提到，延誤是由於 Springfield 轉運站的 severe weather conditions（惡劣天氣）。"
+    - "Artificial intelligence"
+    - "Renewable batteries"
+    - "Cloud data management"
+    - "Automotive manufacturing"
+  answer: 1
+  explanation: "【細節提取】CEO 提到 'focus on renewable battery technology'。"
 
 - id: 23
   part: 7
   type: "Double Passage"
   passage: |
-    (同前文內容)
-  question: "Q23: Why is the delivery date highly critical for Apex Retailers?"
+    <b>[Notice to Shareholders]</b><br>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.<br><br>
+    <b>[V-Tech Innovations: Fiscal Summary]</b><br>
+    - Total Revenue: $520 Million (Up 12% YoY)<br>
+    - Net Profit Margin: 8.5%<br>
+    - Research & Development Spending: $45 Million<br>
+    - CEO Message: \"Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow.\"
+  question: "Q23: How does the current revenue compare to the previous year?"
   options:
-    - "They have an upcoming promotional event."
-    - "Their warehouse lease is expiring soon."
-    - "They need to return the goods to the manufacturer."
-    - "The courier company is closing its business."
+    - "It is 12% higher."
+    - "It is $520 million lower."
+    - "It remains exactly the same."
+    - "It has decreased by 8.5%."
   answer: 0
-  explanation: "【細節定位】信中提到 'Our retail promotional event is scheduled to launch on May 19'，貨物是為了配合該促銷活動。"
+  explanation: "【數值解讀】Fiscal Summary 顯示 Revenue $520 Million (Up 12% YoY)，YoY 指與去年同期相比。"
 
 - id: 24
   part: 7
   type: "Double Passage"
   passage: |
-    (同前文內容)
-  question: "Q24: What date does the customer request the expedited delivery by?"
+    <b>[Notice to Shareholders]</b><br>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.<br><br>
+    <b>[V-Tech Innovations: Fiscal Summary]</b><br>
+    - Total Revenue: $520 Million (Up 12% YoY)<br>
+    - Net Profit Margin: 8.5%<br>
+    - Research & Development Spending: $45 Million<br>
+    - CEO Message: \"Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow.\"
+  question: "Q24: Where will the AGM take place?"
   options:
-    - "May 10"
-    - "May 14"
-    - "May 18"
-    - "May 19"
-  answer: 2
-  explanation: "【細節定位】信中 Shipping Manager 詢問是否能加急，以便貨物能在 May 18 之前送達。"
+    - "Singapore"
+    - "The Sterling Ballroom"
+    - "V-Tech Headquarters"
+    - "Online only"
+  answer: 1
+  explanation: "【地點定位】第一篇首句提到 'in the Sterling Ballroom'。"
 
 - id: 25
   part: 7
   type: "Double Passage"
   passage: |
-    (同前文內容)
-  question: "Q25: What alternative does the customer suggest if expedited shipping is unavailable?"
+    <b>[Notice to Shareholders]</b><br>
+    The annual general meeting (AGM) for V-Tech Innovations will be held on October 12 at 10:00 AM in the Sterling Ballroom. The primary agenda includes voting on the proposed dividend increase of 5% and the election of three new board members. Our annual report, summarized below, indicates a strong fiscal performance despite rising R&D expenditures.<br><br>
+    <b>[V-Tech Innovations: Fiscal Summary]</b><br>
+    - Total Revenue: $520 Million (Up 12% YoY)<br>
+    - Net Profit Margin: 8.5%<br>
+    - Research & Development Spending: $45 Million<br>
+    - CEO Message: \"Our focus on renewable battery technology is finally yielding results. However, shareholders should note that we will defer the expansion of our Singapore plant until the next fiscal cycle to preserve cash flow.\"
+  question: "Q25: Why is the company delaying the plant expansion?"
   options:
-    - "Cancelling the order entirely"
-    - "Arranging for a local pickup"
-    - "Requesting a full refund"
-    - "Filing a formal legal complaint"
-  answer: 1
-  explanation: "【資訊整合】信件末句提到 'If that is not possible, we will need to arrange for local pickup'（我們將必須安排自取）。"
+    - "To save money for daily operations"
+    - "Because revenue was too low"
+    - "To focus more on R&D spending"
+    - "Because shareholders voted against it"
+  answer: 0
+  explanation: "【原因推論】文中提到 'to preserve cash flow' (為了維持現金流/保存資金)，對應 A 選項。"
