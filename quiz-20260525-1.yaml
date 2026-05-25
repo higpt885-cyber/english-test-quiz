@@ -1,325 +1,356 @@
-﻿* id: 1
-part: 5
-type: "Grammar"
-question: "The executive board requested that the proposed merger ______ by the legal department before any contracts are signed."
-options:
-   * "is reviewed"
-   * "be reviewed"
-   * "will review"
-   * "was reviewed"
-answer: 1
-explanation: "【虛擬語氣】在表示要求的動詞 request 之後的 that 子句，動詞需使用原形動詞（省略 should），且 merger（合併案）應是被審查，故選 be reviewed。"
-      * id: 2
-part: 5
-type: "Vocab"
-question: "Due to her ______ attention to detail, Ms. Vance was promoted to Senior Quality Assurance Auditor."
-options:
-         * "meticulous"
-         * "superficial"
-         * "vacant"
-         * "nominal"
-answer: 0
-explanation: "【商務字彙】Meticulous 意為「一絲不苟的、極其細心的」。語境指因對細節的專注與嚴謹而獲得晉升。"
-            * id: 3
-part: 5
-type: "Grammar"
-question: "Only after the financial audit is completed ______ the board authorize the expansion of the overseas facility."
-options:
-               * "does"
-               * "will"
-               * "is"
-               * "did"
-answer: 1
-explanation: "【倒裝句】當 'Only after...' 引導的副詞子句置於句首時，主要子句需採用倒裝結構。因時態指未來將會授權，故使用助動詞 will 提前。"
-                  * id: 4
-part: 5
-type: "Vocab"
-question: "The updated security protocols ______ the need for employees to manually log their entry and exit times."
-options:
-                     * "preclude"
-                     * "attribute"
-                     * "validate"
-                     * "default"
-answer: 0
-explanation: "【動詞辨析】Preclude 意為「排除、使無可能、免除」。在此指新型安全協定「免除了」員工手動記錄出入時間的需要。"
-                        * id: 5
-part: 5
-type: "Prep"
-question: "The sales team managed to achieve their annual targets early ______ the severe supply chain delays in the first quarter."
-options:
-                           * "although"
-                           * "notwithstanding"
-                           * "even if"
-                           * "regardless"
-answer: 1
-explanation: "【高階介係詞】Notwithstanding 意為「儘管、雖然」，是介係詞，後方直接接名詞片語（delays）。Although 與 Even if 均為連接詞，後方需接完整子句。"
-                              * id: 6
-part: 5
-type: "Grammar"
-question: "Had the marketing team ______ the campaign earlier, the quarterly revenue would have been significantly higher."
-options:
-                                 * "launch"
-                                 * "launched"
-                                 * "launching"
-                                 * "launches"
-answer: 1
-explanation: "【假設法倒裝】此句為與過去事實相反的假設法倒裝。原句為 'If the team had launched...'，省略 If 後將助動詞 Had 提前。"
-                                    * id: 7
-part: 5
-type: "Vocab"
-question: "To remain competitive in the market, we must ensure that our software is fully ______ with all major operating systems."
-options:
-                                       * "compatible"
-                                       * "comparable"
-                                       * "complacent"
-                                       * "competitive"
-answer: 0
-explanation: "【商務字彙】Compatible 意為「相容的」，常與介係詞 with 連用，指與操作系統相容。"
-                                          * id: 8
-part: 5
-type: "Grammar"
-question: "The new corporate headquarters was designed with features ______ are highly energy-efficient and eco-friendly."
-options:
-                                             * "who"
-                                             * "whose"
-                                             * "that"
-                                             * "whom"
-answer: 2
-explanation: "【關係代名詞】關係代名詞 that 在限定關係子句中擔任主詞，用來修飾指物的前行詞 features。"
-                                                * id: 9
-part: 5
-type: "Vocab"
-question: "Under the new policy, employees can request ______ for any business-related travel expenses within thirty days."
-options:
-                                                   * "reimbursement"
-                                                   * "transaction"
-                                                   * "deduction"
-                                                   * "subsidy"
-answer: 0
-explanation: "【商務名詞】Reimbursement 意為「（代墊費用的）核銷、退款」。指差旅費用的公帳報銷。"
-                                                      * id: 10
-part: 5
-type: "Vocab"
-question: "The newly appointed executive ______ presented her vision for the company's sustainable growth at the annual summit."
-options:
-                                                         * "eloquent"
-                                                         * "eloquence"
-                                                         * "eloquently"
-                                                         * "elocution"
-answer: 2
-explanation: "【副詞修飾動詞】此處需要副詞 eloquently（雄辯地、有說服力地）來修飾過去式動詞 presented。"
-                                                            * id: 11
-part: 6
-type: "Internal Announcement"
-passage: |
-To: All Staff
-From: IT Support Directorate
-Date: May 25
-Subject: Mandatory Password Upgrade
-Please be advised that we will be upgrading our security infrastructure this weekend. (11) _______, all current user passwords will expire on Saturday at 11:59 PM. To maintain access to your corporate email, you must create a new password before the deadline. (12) _______.
-The new password must be (13) _______ ten characters long and contain at least one special character. Should you encounter any issues during the migration, please (14) _______ your inquiries to our help desk. We (15) _______ appreciate your cooperation in helping us secure our network.
-question: "Q11: Choose the best connector."
-options:
-                                                               * "Nevertheless"
-                                                               * "Consequently"
-                                                               * "Otherwise"
-                                                               * "For instance"
-answer: 1
-explanation: "【邏輯關係】前文提到安全架構升級，後文提到因此密碼將會過期，為因果關係，選 Consequently (因此)。"
-                                                                  * id: 12
-part: 6
-type: "Internal Announcement"
-passage: |
-(同前文內容)
-question: "Q12: Choose the best sentence to fill in the blank."
-options:
-                                                                     * "The IT office will be relocated next month."
-                                                                     * "Access to the building will require a physical key card."
-                                                                     * "Failure to do so will result in temporary account suspension."
-                                                                     * "We hope you enjoy the new cafeteria menu."
-answer: 2
-explanation: "【上下文邏輯】前文提到必須在截止日期前建立新密碼，此處接「若沒這麼做將導致帳號暫時停用」最為連貫。"
-                                                                        * id: 13
-part: 6
-type: "Internal Announcement"
-passage: |
-(同前文內容)
-question: "Q13: Choose the best adverb."
-options:
-                                                                           * "at least"
-                                                                           * "at most"
-                                                                           * "up to"
-                                                                           * "approximately"
-answer: 0
-explanation: "【固定搭配】At least ten characters long 意為「至少 10 個字元長」，為設定密碼時的長度規範語境。"
-                                                                              * id: 14
-part: 6
-type: "Internal Announcement"
-passage: |
-(同前文內容)
-question: "Q14: Choose the best verb."
-options:
-                                                                                 * "direct"
-                                                                                 * "distract"
-                                                                                 * "discard"
-                                                                                 * "default"
-answer: 0
-explanation: "【商務動詞】Direct your inquiries to... 意為「將您的問題/諮詢寄送至...」，是商務書信的標準搭配詞。"
-                                                                                    * id: 15
-part: 6
-type: "Internal Announcement"
-passage: |
-(同前文內容)
-question: "Q15: Choose the best adverb."
-options:
-                                                                                       * "sincerely"
-                                                                                       * "negligently"
-                                                                                       * "reluctantly"
-                                                                                       * "stagnantly"
-answer: 0
-explanation: "【書信禮儀】Sincerely appreciate 意為「衷心感謝」，為商務公告中表達感激與禮貌的最高頻副詞。"
-                                                                                          * id: 16
-part: 7
-type: "Facility Notice"
-passage: |
-[Notice of Facility Maintenance]
-Please note that the main parking garage will be closed for resurfacing and structural inspections from Monday, June 1, through Wednesday, June 3. During this period, no vehicles will be permitted to park in the garage.
-To accommodate staff, the company has secured temporary parking privileges at the nearby Metro Center Lot, located two blocks east of our building. To park there for free, you must display your company parking permit on your dashboard. Shuttle buses will run between the Metro Center Lot and the office entrance every 15 minutes during peak hours (7:30 AM - 9:30 AM and 4:30 PM - 6:30 PM). Normal parking garage operations will resume on Thursday, June 4, at 6:00 AM.
-question: "Q16: Why is the parking garage being closed?"
-options:
-                                                                                             * "For security system installations"
-                                                                                             * "For resurfacing and inspections"
-                                                                                             * "To build a new shuttle station"
-                                                                                             * "To expand its parking capacity"
-answer: 1
-explanation: "【細節定位】首段明確指出關閉原因是為了 resurfacing and structural inspections（重鋪路面與結構檢查）。"
-                                                                                                * id: 17
-part: 7
-type: "Facility Notice"
-passage: |
-(同前文內容)
-question: "Q17: Where can employees park during the closure?"
-options:
-                                                                                                   * "At the West Wing underground lot"
-                                                                                                   * "Along the main street"
-                                                                                                   * "At the Metro Center Lot"
-                                                                                                   * "At the city center lot"
-answer: 2
-explanation: "【細節定位】第二段指出公司已在附近的 Metro Center Lot 取得了臨時停車使用權。"
-                                                                                                      * id: 18
-part: 7
-type: "Facility Notice"
-passage: |
-(同前文內容)
-question: "Q18: What is required to receive free parking at the temporary lot?"
-options:
-                                                                                                         * "A barcode on your smartphone"
-                                                                                                         * "A cash payment receipt"
-                                                                                                         * "Your employee ID badge on your collar"
-                                                                                                         * "Your company parking permit on your dashboard"
-answer: 3
-explanation: "【細節定位】文中提到 'you must display your company parking permit on your dashboard'（必須在儀表板上出示停車證）。"
-                                                                                                            * id: 19
-part: 7
-type: "Facility Notice"
-passage: |
-(同前文內容)
-question: "Q19: When will the main parking garage reopen?"
-options:
-                                                                                                               * "Monday, June 1"
-                                                                                                               * "Wednesday, June 3"
-                                                                                                               * "Thursday, June 4"
-                                                                                                               * "Friday, June 5"
-answer: 2
-explanation: "【日期判斷】最後一句指出 'Normal parking garage operations will resume on Thursday, June 4'（週四恢復營運）。"
-                                                                                                                  * id: 20
-part: 7
-type: "Double Passage"
-passage: |
-[Product Delivery Notice]
-Invoice #90123
-Customer: Apex Retailers
-Dispatched Date: May 10
-Expected Delivery: May 14
-Courier: FastTrack Logistics
-[Urgent Email from Customer]
-Date: May 16
-To: Customer Service, FastTrack Logistics
-From: Shipping Manager, Apex Retailers
-Subject: Missing Shipment (Invoice #90123)
-Dear Support Team,
-We are writing to report that our shipment (Invoice #90123), which was scheduled to arrive at our warehouse on May 14, has not yet delivered. Our retail promotional event is scheduled to launch on May 19, and the items in this shipment are critical for this event.
-According to the tracking portal, the shipment has been delayed at the Springfield sorting facility due to severe weather conditions. Given the urgency, could you expedite this package so it arrives by May 18? If that is not possible, we will need to arrange for local pickup.
-question: "Q20: When was the shipment originally expected to arrive?"
-options:
-                                                                                                                     * "May 10"
-                                                                                                                     * "May 14"
-                                                                                                                     * "May 16"
-                                                                                                                     * "May 19"
-answer: 1
-explanation: "【定位題】第一篇發票的 Expected Delivery 及第二篇信件中均提到原訂送達日為 May 14。"
-                                                                                                                        * id: 21
-part: 7
-type: "Double Passage"
-passage: |
-(同前文內容)
-question: "Q21: Who is the recipient of the shipment?"
-options:
-                                                                                                                           * "FastTrack Logistics"
-                                                                                                                           * "Apex Retailers"
-                                                                                                                           * "Springfield Sorting"
-                                                                                                                           * "Customer Service"
-answer: 1
-explanation: "【主體判定】發票中的 Customer 是 Apex Retailers，寄信人也是該公司的 Shipping Manager，故其為收件人。"
-                                                                                                                              * id: 22
-part: 7
-type: "Double Passage"
-passage: |
-(同前文內容)
-question: "Q22: What is the cause of the shipping delay?"
-options:
-                                                                                                                                 * "A sorting machine malfunction"
-                                                                                                                                 * "Labor shortages at the port"
-                                                                                                                                 * "Severe weather conditions"
-                                                                                                                                 * "An incorrect shipping address"
-answer: 2
-explanation: "【細節定位】第二篇電子郵件中明確提到，延誤是由於 Springfield 轉運站的 severe weather conditions（惡劣天氣）。"
-                                                                                                                                    * id: 23
-part: 7
-type: "Double Passage"
-passage: |
-(同前文內容)
-question: "Q23: Why is the delivery date highly critical for Apex Retailers?"
-options:
-                                                                                                                                       * "They have an upcoming promotional event."
-                                                                                                                                       * "Their warehouse lease is expiring soon."
-                                                                                                                                       * "They need to return the goods to the manufacturer."
-                                                                                                                                       * "The courier company is closing its business."
-answer: 0
-explanation: "【細節定位】信中提到 'Our retail promotional event is scheduled to launch on May 19'，貨物是為了配合該促銷活動。"
-                                                                                                                                          * id: 24
-part: 7
-type: "Double Passage"
-passage: |
-(同前文內容)
-question: "Q24: What date does the customer request the expedited delivery by?"
-options:
-                                                                                                                                             * "May 10"
-                                                                                                                                             * "May 14"
-                                                                                                                                             * "May 18"
-                                                                                                                                             * "May 19"
-answer: 2
-explanation: "【細節定位】信中 Shipping Manager 詢問是否能加急，以便貨物能在 May 18 之前送達。"
-                                                                                                                                                * id: 25
-part: 7
-type: "Double Passage"
-passage: |
-(同前文內容)
-question: "Q25: What alternative does the customer suggest if expedited shipping is unavailable?"
-options:
-                                                                                                                                                   * "Cancelling the order entirely"
-                                                                                                                                                   * "Arranging for a local pickup"
-                                                                                                                                                   * "Requesting a full refund"
-                                                                                                                                                   * "Filing a formal legal complaint"
-answer: 1
-explanation: "【資訊整合】信件末句提到 'If that is not possible, we will need to arrange for local pickup'（我們將必須安排自取）。"
+- id: 1
+  part: 5
+  type: "Grammar"
+  question: "The executive board requested that the proposed merger _______ by the legal department before any contracts are signed."
+  options:
+    - "is reviewed"
+    - "be reviewed"
+    - "will review"
+    - "was reviewed"
+  answer: 1
+  explanation: "【虛擬語氣】在表示要求的動詞 request 之後的 that 子句，動詞需使用原形動詞（省略 should），且 merger（合併案）應是被審查，故選 be reviewed。"
+
+- id: 2
+  part: 5
+  type: "Vocab"
+  question: "Due to her _______ attention to detail, Ms. Vance was promoted to Senior Quality Assurance Auditor."
+  options:
+    - "meticulous"
+    - "superficial"
+    - "vacant"
+    - "nominal"
+  answer: 0
+  explanation: "【商務字彙】Meticulous 意為「一絲不苟的、極其細心的」。語境指因對細節的專注與嚴謹而獲得晉升。"
+
+- id: 3
+  part: 5
+  type: "Grammar"
+  question: "Only after the financial audit is completed _______ the board authorize the expansion of the overseas facility."
+  options:
+    - "does"
+    - "will"
+    - "is"
+    - "did"
+  answer: 1
+  explanation: "【倒裝句】當 'Only after...' 引導的副詞子句置於句首時，主要子句需採用倒裝結構。因時態指未來將會授權，故使用助動詞 will 提前。"
+
+- id: 4
+  part: 5
+  type: "Vocab"
+  question: "The updated security protocols _______ the need for employees to manually log their entry and exit times."
+  options:
+    - "preclude"
+    - "attribute"
+    - "validate"
+    - "default"
+  answer: 0
+  explanation: "【動詞辨析】Preclude 意為「排除、使無可能、免除」。在此指新型安全協定「免除了」員工手動記錄出入時間的需要。"
+
+- id: 5
+  part: 5
+  type: "Prep"
+  question: "The sales team managed to achieve their annual targets early _______ the severe supply chain delays in the first quarter."
+  options:
+    - "although"
+    - "notwithstanding"
+    - "even if"
+    - "regardless"
+  answer: 1
+  explanation: "【高階介係詞】Notwithstanding 意為「儘管、雖然」，是介係詞，後方直接接名詞片語（delays）。Although 與 Even if 均為連接詞，後方需接完整子句。"
+
+- id: 6
+  part: 5
+  type: "Grammar"
+  question: "Had the marketing team _______ the campaign earlier, the quarterly revenue would have been significantly higher."
+  options:
+    - "launch"
+    - "launched"
+    - "launching"
+    - "launches"
+  answer: 1
+  explanation: "【假設法倒裝】此句為與過去事實相反的假設法倒裝。原句為 'If the team had launched...'，省略 If 後將助動詞 Had 提前。"
+
+- id: 7
+  part: 5
+  type: "Vocab"
+  question: "To remain competitive in the market, we must ensure that our software is fully _______ with all major operating systems."
+  options:
+    - "compatible"
+    - "comparable"
+    - "complacent"
+    - "competitive"
+  answer: 0
+  explanation: "【商務字彙】Compatible 意為「相容的」，常與介係詞 with 連用，指與操作系統相容。"
+
+- id: 8
+  part: 5
+  type: "Grammar"
+  question: "The new corporate headquarters was designed with features _______ are highly energy-efficient and eco-friendly."
+  options:
+    - "who"
+    - "whose"
+    - "that"
+    - "whom"
+  answer: 2
+  explanation: "【關係代名詞】關係代名詞 that 在限定關係子句中擔任主詞，用來修飾指物的前行詞 features。"
+
+- id: 9
+  part: 5
+  type: "Vocab"
+  question: "Under the new policy, employees can request _______ for any business-related travel expenses within thirty days."
+  options:
+    - "reimbursement"
+    - "transaction"
+    - "deduction"
+    - "subsidy"
+  answer: 0
+  explanation: "【商務名詞】Reimbursement 意為「（代墊費用的）核銷、退款」。指差旅費用的公帳報銷。"
+
+- id: 10
+  part: 5
+  type: "Vocab"
+  question: "The newly appointed executive _______ presented her vision for the company's sustainable growth at the annual summit."
+  options:
+    - "eloquent"
+    - "eloquence"
+    - "eloquently"
+    - "elocution"
+  answer: 2
+  explanation: "【副詞修飾動詞】此處需要副詞 eloquently（雄辯地、有說服力地）來修飾過去式動詞 presented。"
+
+- id: 11
+  part: 6
+  type: "Internal Announcement"
+  passage: |
+    <b>To: All Staff</b>
+    <b>From: IT Support Directorate</b>
+    <b>Date: May 25</b>
+    <b>Subject: Mandatory Password Upgrade</b>
+
+    Please be advised that we will be upgrading our security infrastructure this weekend. (11) _______, all current user passwords will expire on Saturday at 11:59 PM. To maintain access to your corporate email, you must create a new password before the deadline. (12) _______.
+
+    The new password must be (13) _______ ten characters long and contain at least one special character. Should you encounter any issues during the migration, please (14) _______ your inquiries to our help desk. We (15) _______ appreciate your cooperation in helping us secure our network.
+  question: "Q11: Choose the best connector."
+  options:
+    - "Nevertheless"
+    - "Consequently"
+    - "Otherwise"
+    - "For instance"
+  answer: 1
+  explanation: "【邏輯關係】前文提到安全架構升級，後文提到因此密碼將會過期，為因果關係，選 Consequently (因此)。"
+
+- id: 12
+  part: 6
+  type: "Internal Announcement"
+  passage: |
+    (同前文內容)
+  question: "Q12: Choose the best sentence to fill in the blank."
+  options:
+    - "The IT office will be relocated next month."
+    - "Access to the building will require a physical key card."
+    - "Failure to do so will result in temporary account suspension."
+    - "We hope you enjoy the new cafeteria menu."
+  answer: 2
+  explanation: "【上下文邏輯】前文提到必須在截止日期前建立新密碼，此處接「若沒這麼做將導致帳號暫時停用」最為連貫。"
+
+- id: 13
+  part: 6
+  type: "Internal Announcement"
+  passage: |
+    (同前文內容)
+  question: "Q13: Choose the best adverb."
+  options:
+    - "at least"
+    - "at most"
+    - "up to"
+    - "approximately"
+  answer: 0
+  explanation: "【固定搭配】At least ten characters long 意為「至少 10 個字元長」，為設定密碼時的長度規範語境。"
+
+- id: 14
+  part: 6
+  type: "Internal Announcement"
+  passage: |
+    (同前文內容)
+  question: "Q14: Choose the best verb."
+  options:
+    - "direct"
+    - "distract"
+    - "discard"
+    - "default"
+  answer: 0
+  explanation: "【商務動詞】Direct your inquiries to... 意為「將您的問題/諮詢寄送至...」，是商務書信的標準搭配詞。"
+
+- id: 15
+  part: 6
+  type: "Internal Announcement"
+  passage: |
+    (同前文內容)
+  question: "Q15: Choose the best adverb."
+  options:
+    - "sincerely"
+    - "negligently"
+    - "reluctantly"
+    - "stagnantly"
+  answer: 0
+  explanation: "【書信禮儀】Sincerely appreciate 意為「衷心感謝」，為商務公告中表達感激與禮貌的最高頻副詞。"
+
+- id: 16
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    <b>[Notice of Facility Maintenance]</b>
+
+    Please note that the main parking garage will be closed for resurfacing and structural inspections from Monday, June 1, through Wednesday, June 3. During this period, no vehicles will be permitted to park in the garage.
+
+    To accommodate staff, the company has secured temporary parking privileges at the nearby Metro Center Lot, located two blocks east of our building. To park there for free, you must display your company parking permit on your dashboard. Shuttle buses will run between the Metro Center Lot and the office entrance every 15 minutes during peak hours (7:30 AM - 9:30 AM and 4:30 PM - 6:30 PM). Normal parking garage operations will resume on Thursday, June 4, at 6:00 AM.
+  question: "Q16: Why is the parking garage being closed?"
+  options:
+    - "For security system installations"
+    - "For resurfacing and inspections"
+    - "To build a new shuttle station"
+    - "To expand its parking capacity"
+  answer: 1
+  explanation: "【細節定位】首段明確指出關閉原因是為了 resurfacing and structural inspections（重鋪路面與結構檢查）。"
+
+- id: 17
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    (同前文內容)
+  question: "Q17: Where can employees park during the closure?"
+  options:
+    - "At the West Wing underground lot"
+    - "Along the main street"
+    - "At the Metro Center Lot"
+    - "At the city center lot"
+  answer: 2
+  explanation: "【細節定位】第二段指出公司已在附近的 Metro Center Lot 取得了臨時停車使用權。"
+
+- id: 18
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    (同前文內容)
+  question: "Q18: What is required to receive free parking at the temporary lot?"
+  options:
+    - "A barcode on your smartphone"
+    - "A cash payment receipt"
+    - "Your employee ID badge on your collar"
+    - "Your company parking permit on your dashboard"
+  answer: 3
+  explanation: "【細節定位】文中提到 'you must display your company parking permit on your dashboard'（必須在儀表板上出示停車證）。"
+
+- id: 19
+  part: 7
+  type: "Facility Notice"
+  passage: |
+    (同前文內容)
+  question: "Q19: When will the main parking garage reopen?"
+  options:
+    - "Monday, June 1"
+    - "Wednesday, June 3"
+    - "Thursday, June 4"
+    - "Friday, June 5"
+  answer: 2
+  explanation: "【日期判斷】最後一句指出 'Normal parking garage operations will resume on Thursday, June 4'（週四恢復營運）。"
+
+- id: 20
+  part: 7
+  type: "Double Passage"
+  passage: |
+    <b>[Product Delivery Notice]</b>
+    Invoice #90123
+    Customer: Apex Retailers
+    Dispatched Date: May 10
+    Expected Delivery: May 14
+    Courier: FastTrack Logistics
+
+    <b>[Urgent Email from Customer]</b>
+    Date: May 16
+    To: Customer Service, FastTrack Logistics
+    From: Shipping Manager, Apex Retailers
+    Subject: Missing Shipment (Invoice #90123)
+
+    Dear Support Team,
+    We are writing to report that our shipment (Invoice #90123), which was scheduled to arrive at our warehouse on May 14, has not yet delivered. Our retail promotional event is scheduled to launch on May 19, and the items in this shipment are critical for this event.
+
+    According to the tracking portal, the shipment has been delayed at the Springfield sorting facility due to severe weather conditions. Given the urgency, could you expedite this package so it arrives by May 18? If that is not possible, we will need to arrange for local pickup.
+  question: "Q20: When was the shipment originally expected to arrive?"
+  options:
+    - "May 10"
+    - "May 14"
+    - "May 16"
+    - "May 19"
+  answer: 1
+  explanation: "【定位題】第一篇發票的 Expected Delivery 及第二篇信件中均提到原訂送達日為 May 14。"
+
+- id: 21
+  part: 7
+  type: "Double Passage"
+  passage: |
+    (同前文內容)
+  question: "Q21: Who is the recipient of the shipment?"
+  options:
+    - "FastTrack Logistics"
+    - "Apex Retailers"
+    - "Springfield Sorting"
+    - "Customer Service"
+  answer: 1
+  explanation: "【主體判定】發票中的 Customer 是 Apex Retailers，寄信人也是該公司的 Shipping Manager，故其為收件人。"
+
+- id: 22
+  part: 7
+  type: "Double Passage"
+  passage: |
+    (同前文內容)
+  question: "Q22: What is the cause of the shipping delay?"
+  options:
+    - "A sorting machine malfunction"
+    - "Labor shortages at the port"
+    - "Severe weather conditions"
+    - "An incorrect shipping address"
+  answer: 2
+  explanation: "【細節定位】第二篇電子郵件中明確提到，延誤是由於 Springfield 轉運站的 severe weather conditions（惡劣天氣）。"
+
+- id: 23
+  part: 7
+  type: "Double Passage"
+  passage: |
+    (同前文內容)
+  question: "Q23: Why is the delivery date highly critical for Apex Retailers?"
+  options:
+    - "They have an upcoming promotional event."
+    - "Their warehouse lease is expiring soon."
+    - "They need to return the goods to the manufacturer."
+    - "The courier company is closing its business."
+  answer: 0
+  explanation: "【細節定位】信中提到 'Our retail promotional event is scheduled to launch on May 19'，貨物是為了配合該促銷活動。"
+
+- id: 24
+  part: 7
+  type: "Double Passage"
+  passage: |
+    (同前文內容)
+  question: "Q24: What date does the customer request the expedited delivery by?"
+  options:
+    - "May 10"
+    - "May 14"
+    - "May 18"
+    - "May 19"
+  answer: 2
+  explanation: "【細節定位】信中 Shipping Manager 詢問是否能加急，以便貨物能在 May 18 之前送達。"
+
+- id: 25
+  part: 7
+  type: "Double Passage"
+  passage: |
+    (同前文內容)
+  question: "Q25: What alternative does the customer suggest if expedited shipping is unavailable?"
+  options:
+    - "Cancelling the order entirely"
+    - "Arranging for a local pickup"
+    - "Requesting a full refund"
+    - "Filing a formal legal complaint"
+  answer: 1
+  explanation: "【資訊整合】信件末句提到 'If that is not possible, we will need to arrange for local pickup'（我們將必須安排自取）。"
